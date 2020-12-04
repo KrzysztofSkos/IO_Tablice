@@ -5,15 +5,11 @@ import VideoToFrames
 import FramesToVideo
 
 
-def start(frame, index, fps):
-    logi = open('logizzz.txt', 'a')
+def start(frame, index, fps, dirPath):
+    logi = open(dirPath + "/logi.txt", 'a')
     imgOriginalScene = frame
     x, tablica = Core.core(imgOriginalScene)
     timestamp = (index + 1) / fps
     logi.write(str(timestamp) + "; " + tablica + "\n")
     logi.close()
     return x
-
-
-if __name__ == "__main__":
-    VideoToFrames.read("Videos/grupaA3.mp4", "proj.avi")

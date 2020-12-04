@@ -1,5 +1,6 @@
 import tkinter as tk
-from tkinter import filedialog
+import VideoToFrames
+from tkinter import filedialog, messagebox
 from tkinter import ttk
 
 VERSION = '0.1'
@@ -9,8 +10,10 @@ try:
     root.tk.call('tk_getOpenFile', '-foobarbaz')
 except tk.TclError:
     pass
-root.tk.call('set', '::tk::dialog::file::showHiddenBtn', '1')
-root.tk.call('set', '::tk::dialog::file::showHiddenVar', '0')
+
+
+# root.tk.call('set', '::tk::dialog::file::showHiddenBtn', '1')
+# root.tk.call('set', '::tk::dialog::file::showHiddenVar', '0')
 
 
 def main():
@@ -45,7 +48,7 @@ def main():
 
 
 def open_file(entry):
-    open_filename = filedialog.askopenfilename(initialfile=entry.get(), filetypes=[("MP4", "*.mp4")])
+    open_filename = filedialog.askopenfilename(initialfile=entry.get())
     entry.delete(0, tk.END)
     entry.insert(tk.END, open_filename)
 
@@ -57,8 +60,8 @@ def save_file(entry):
 
 
 def run_processing(open, save):
-    # tutaj odpalanie
-    print(open.get(), save.get())
+    VideoToFrames.read(open.get(), save.get())
+    messagebox.showinfo(title="Zakonczono", message="Program skonczyl prace")
 
 
 main()

@@ -6,6 +6,8 @@ import Start
 
 
 def read(pathOfVideo, pathOfNewVideo):
+    dirPath = pathOfNewVideo
+    pathOfNewVideo = pathOfNewVideo + "/zmodyfikowane.avi"
     cap = cv2.VideoCapture(pathOfVideo)
     length = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))  # length of movie in frames
     fps = int(cap.get(cv2.CAP_PROP_FPS))
@@ -18,7 +20,7 @@ def read(pathOfVideo, pathOfNewVideo):
 
         if frame is None:
             break
-        newFrame = Start.start(frame, i, fps)
+        newFrame = Start.start(frame, i, fps, dirPath)
         out.write(newFrame)
     out.release()
     cap.release()
