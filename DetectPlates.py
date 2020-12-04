@@ -43,24 +43,6 @@ def detectPlatesInScene(imgOriginalScene):
         if possiblePlate.imgPlate is not None:  # if plate was found
             listOfPossiblePlates.append(possiblePlate)  # add to list of possible plates
 
-    #print("\n" + str(len(listOfPossiblePlates)) + " possible plates found")  # 13 with MCLRNF1 image
-    """
-    for i in range(0, len(listOfPossiblePlates)):
-        p2fRectPoints = cv2.boxPoints(listOfPossiblePlates[i].rrLocationOfPlateInScene)
-
-        cv2.line(imgContours, tuple(p2fRectPoints[0]), tuple(p2fRectPoints[1]), Core.SCALAR_RED, 2)
-        cv2.line(imgContours, tuple(p2fRectPoints[1]), tuple(p2fRectPoints[2]), Core.SCALAR_RED, 2)
-        cv2.line(imgContours, tuple(p2fRectPoints[2]), tuple(p2fRectPoints[3]), Core.SCALAR_RED, 2)
-        cv2.line(imgContours, tuple(p2fRectPoints[3]), tuple(p2fRectPoints[0]), Core.SCALAR_RED, 2)
-
-        cv2.imshow("4a", imgContours)
-
-        print("possible plate " + str(i) + ", click on any image and press a key to continue . . .")
-
-        cv2.imshow("4b", listOfPossiblePlates[i].imgPlate)
-        print("tablica " + str(i) + ": " + listOfPossiblePlates[i].strChars)
-        cv2.waitKey(1000)
-    """
     return listOfPossiblePlates
 
 

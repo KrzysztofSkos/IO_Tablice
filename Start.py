@@ -7,16 +7,11 @@ import FramesToVideo
 
 def start(frame, index, fps):
     logi = open('logizzz.txt', 'a')
-    # imgOriginalScene = cv2.imread("LicPlateImages/tes1.jpg")  # open image
     imgOriginalScene = frame
-    x, tablica = Core.core(imgOriginalScene)  # Funkcja zwraza obraz z namalowanym prostokątem na tablicy
-    # cv2.imshow("test", x)
-    # timestamp [s] = (index+1)/25
+    x, tablica = Core.core(imgOriginalScene)
     timestamp = (index + 1) / fps
     logi.write(str(timestamp) + "; " + tablica + "\n")
-    # print("Start: ", tablica)
     logi.close()
-    # cv2.waitKey(30)
     return x
 
 
