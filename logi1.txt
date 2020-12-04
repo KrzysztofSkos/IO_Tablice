@@ -1,0 +1,4723 @@
+0.04; WRN3UB
+0.08; Z7XIXXL
+0.04; IIII
+0.08; 4AA15
+0.12; 11I1
+0.16; 111111
+0.2; JJJJ
+0.24; I11I
+0.28; III11
+0.32; 11II11
+0.36; IIIII11
+0.4; JJJJ
+0.44; II1111
+0.48; II1II11
+0.52; XJKN
+0.56; 1I1II5
+0.6; 11IIII
+0.64; I1111
+0.68; 1IIII1
+0.72; 1111
+0.76; JJJJ
+0.8; IIII1
+0.84; IIIII
+0.88; IIIII
+0.92; III1III
+0.96; I111
+1.0; IIIII1
+1.04; 1II1
+1.08; 11111
+1.12; IIII1
+1.16; 1I1II
+1.2; IIII1
+1.24; 5555
+1.28; III1
+1.32; 1II1II
+1.36; 11III
+1.4; III1II
+1.44; I11111
+1.48; 11IIII
+1.52; JJJ
+1.56; YA55
+1.6; XW27
+1.64; 4115
+1.68; JJL
+1.72; 7A7I
+1.76; 11II
+1.8; 1III1
+1.84; JJ77
+1.88; JJJ
+1.92; 1II1
+1.96; JTT
+2.0; 11II1
+2.04; T7J
+2.08; 2KQ
+2.12; RJJ
+2.16; 7PK7
+2.2; 333
+2.24; 7JJ7
+2.28; JILP
+2.32; II1III
+2.36; 32J
+2.4; IIII
+2.44; 0TJ
+2.48; TJ7
+2.52; ILAI
+2.56; IX5
+2.6; TJJ
+2.64; 777
+2.68; 737
+2.72; SLV
+2.76; JJJ
+2.8; JJJ
+2.84; JJJ
+2.88; JJJ
+2.92; 17J
+2.96; JJJ
+3.0; 77J
+3.04; 1JJJ
+3.08; 1JJJ
+3.12; JJJ
+3.16; JI7Y
+3.2; ZJ7
+3.24; III
+3.28; L131
+3.32; AJA
+3.36; IIII
+3.4; I1II1
+3.44; I147
+3.48; 523J
+3.52; 717
+3.56; JJJ
+3.6; VI1I
+3.64; 722
+3.68; III
+3.72; FJ7
+3.76; JJJJ
+3.8; 111
+3.84; 111I
+3.88; JJJ
+3.92; 237
+3.96; JJJ
+4.0; I71V
+4.04; JJJ
+4.08; 732L
+4.12; B³¹d rozpoznawania znaków na tablicy
+4.16; B³¹d rozpoznawania znaków na tablicy
+4.2; B³¹d rozpoznawania znaków na tablicy
+0.04; IIII
+0.08; 4AA15
+0.12; 1IIII
+0.16; 11111
+0.2; JJJJ
+0.24; 111II
+0.28; III11
+0.32; 111I1111
+0.36; IIIII11
+0.4; II1I311
+0.44; IIIIII1
+0.48; II1II11
+0.52; 1II111
+0.56; I1I11
+0.6; TI4
+0.64; I11I1
+0.68; II1I
+0.72; I111I
+0.76; 111I
+0.8; IIIII
+0.84; IIJII
+0.88; 1I1I
+0.92; 41I1
+0.96; IIII1
+1.0; 11IIIIIII1
+1.04; 1II1
+1.08; IIIIII
+1.12; IIII
+1.16; 1II11
+1.2; I1111
+1.24; II1I1
+1.28; I1I11I
+1.32; IA41
+1.36; 11III
+1.4; I1N1C
+1.44; I11111
+1.48; JJJJ
+1.52; I1I1IIII1
+1.56; YA55
+1.6; 1III1
+1.64; II11
+1.68; JJL
+1.72; III11I
+1.76; IIIII
+1.8; I1111
+1.84; 11111
+1.88; CIII
+1.92; 333
+1.96; JJJJ
+2.0; 11II1
+2.04; I1J
+2.08; 2KQ
+2.12; JJJ
+2.16; 1I11I
+2.2; 111I
+2.24; 7JJ7
+2.28; JILP
+2.32; F1II1
+2.36; J33J
+2.4; JJJ
+2.44; II1
+2.48; TJ7
+2.52; 333
+2.56; IX5
+2.6; TJJ
+2.64; JJT
+2.68; 737
+2.72; II1
+2.76; JJJ
+2.8; R3J
+2.84; JJJ
+2.88; 1III
+2.92; 17J
+2.96; K4L
+3.0; 7II
+3.04; PI11
+3.08; IJKI
+3.12; JJJ
+3.16; JI7Y
+3.2; ZJ7
+3.24; J3J
+3.28; 111HI
+3.32; 17V
+3.36; IFIU
+3.4; I1II1
+3.44; 377
+3.48; S111
+3.52; YA4
+3.56; 7I5
+3.6; 6XI
+3.64; 722
+3.68; III
+3.72; III
+3.76; JJJJ
+3.8; 333
+3.84; IIXI
+3.88; 7JJ
+3.92; I14
+3.96; JJJ
+4.0; I71V
+4.04; JJJ
+4.08; 72T
+4.12; B³¹d rozpoznawania znaków na tablicy
+4.16; B³¹d rozpoznawania znaków na tablicy
+4.2; B³¹d rozpoznawania znaków na tablicy
+0.04; IIII
+0.08; 4AA15
+0.12; 1I1II1
+0.16; III11
+0.2; I1II1
+0.24; 111II
+0.28; I1I115
+0.32; 111I1111
+0.36; II11I1I
+0.4; 1IIII
+0.44; IIIIII1
+0.48; 1I1II11
+0.52; A7JJ7
+0.56; 1I1II5
+0.6; 1II1
+0.64; I11III
+0.68; 77JJ7
+0.72; I11II
+0.76; 1I1I1
+0.8; 11I11
+0.84; IIIIII
+0.88; III111
+0.92; II11
+0.96; IIII1
+1.0; 11IIIIIII1
+1.04; A277
+1.08; 11111
+1.12; 5IL1
+1.16; 11II111
+1.2; 1I1III
+1.24; 1111I
+1.28; IIII1
+1.32; 1II1II
+1.36; 11III
+1.4; 1I1II
+1.44; I11111
+1.48; 11IIII
+1.52; 1II1111
+1.56; CJGJ
+1.6; 1II1
+1.64; II11
+1.68; 1I1III
+1.72; III11I
+1.76; AJ77
+1.8; JIIPI
+1.84; IIIIII
+1.88; IIIIII
+1.92; IIII
+1.96; I1II
+2.0; 11II1
+2.04; 32T
+2.08; A73
+2.12; 7JJJ
+2.16; JJJJJ
+2.2; I1II
+2.24; 7JJ7
+2.28; TJJ7
+2.32; II1III
+2.36; 2Z4A
+2.4; 11111I
+2.44; JJ7
+2.48; JJJ
+2.52; ILAI
+2.56; J333
+2.6; JJJ
+2.64; JJ3
+2.68; 737
+2.72; 7TT
+2.76; 7T7
+2.8; JJJ
+2.84; XTT
+2.88; 1III
+2.92; K7T
+2.96; 777
+3.0; 7Z7
+3.04; 1JJJ
+3.08; 1JJJ
+3.12; 742
+3.16; JI7Y
+3.2; JJJ
+3.24; III
+3.28; 111HI
+3.32; III
+3.36; IIII
+3.4; I7HJ7
+3.44; II1I
+3.48; 4I12
+3.52; 1I41
+3.56; JJJ
+3.6; VI1I
+3.64; 1IJI
+3.68; II7P
+3.72; 14II
+3.76; 111C
+3.8; JJJ
+3.84; IIXI
+3.88; 2Z3
+3.92; 2TT
+3.96; 3T77
+4.0; I71V
+4.04; 3JJ
+4.08; T7TT
+4.12; B³¹d rozpoznawania znaków na tablicy
+4.16; 32J
+4.2; JJJ
+4.24; B³¹d rozpoznawania znaków na tablicy
+4.28; 11111
+4.32; 3JJ
+4.36; 37T
+4.4; JJJ
+4.44; TJJJ
+4.48; T37
+4.52; TTT
+4.56; JJJJ
+4.6; 1I12
+4.64; IPJK
+4.68; 7JJ
+4.72; IIL
+4.76; AJJ
+4.8; TI11
+4.84; J3J
+4.88; 733
+4.92; J7J
+4.96; T7T
+5.0; 23J
+5.04; TT
+5.08; JJJ
+5.12; B³¹d rozpoznawania znaków na tablicy
+5.16; 3JJJ
+5.2; I1Y
+5.24; JJ17Q
+5.28; JJJ
+5.32; I21P
+5.36; B³¹d rozpoznawania znaków na tablicy
+5.4; 7TT
+5.44; 7T7
+5.48; B³¹d rozpoznawania znaków na tablicy
+5.52; Nie wykryto tablicy
+5.56; AII
+5.6; T7T
+5.64; 7TT
+5.68; 7TT
+5.72; B³¹d rozpoznawania znaków na tablicy
+5.76; Nie wykryto tablicy
+5.8; B³¹d rozpoznawania znaków na tablicy
+5.84; Nie wykryto tablicy
+5.88; V1171
+5.92; 7JJ
+5.96; TTI
+6.0; JJJ
+6.04; B³¹d rozpoznawania znaków na tablicy
+6.08; JL1T
+6.12; LII
+6.16; B³¹d rozpoznawania znaków na tablicy
+6.2; Nie wykryto tablicy
+6.24; B³¹d rozpoznawania znaków na tablicy
+6.28; TTT
+6.32; 7TT
+6.36; ILIV
+6.4; B³¹d rozpoznawania znaków na tablicy
+6.44; B³¹d rozpoznawania znaków na tablicy
+6.48; TTT
+6.52; NRUJ
+6.56; FII
+6.6; HJO
+6.64; Nie wykryto tablicy
+6.68; B³¹d rozpoznawania znaków na tablicy
+6.72; L77
+6.76; III22
+6.8; 2LI1
+6.84; Y2F
+6.88; CNJ
+6.92; JII1
+6.96; Nie wykryto tablicy
+7.0; IIA
+7.04; IIJU
+7.08; IID
+7.12; B³¹d rozpoznawania znaków na tablicy
+7.16; QZ4LC
+7.2; L1I
+7.24; IVI
+7.28; JTN
+7.32; II1
+7.36; Nie wykryto tablicy
+7.4; JJJ
+7.44; B³¹d rozpoznawania znaków na tablicy
+7.48; JJ7
+7.52; JJJ
+7.56; B³¹d rozpoznawania znaków na tablicy
+7.6; Nie wykryto tablicy
+7.64; Nie wykryto tablicy
+7.68; TTT
+7.72; TTT
+7.76; A2II
+7.8; VU1
+7.84; DP1T
+7.88; Nie wykryto tablicy
+7.92; 1IIFI
+7.96; JJJ
+8.0; III
+8.04; IIJ
+8.08; KI14
+8.12; DHI
+8.16; I44
+8.2; I4L
+8.24; ILXXI
+8.28; JIJI
+8.32; VKII
+8.36; IZ7I
+8.4; B³¹d rozpoznawania znaków na tablicy
+8.44; CR4L
+8.48; B³¹d rozpoznawania znaków na tablicy
+8.52; Nie wykryto tablicy
+8.56; TTT
+8.6; TTT
+8.64; B³¹d rozpoznawania znaków na tablicy
+8.68; L11
+8.72; JZ7A
+8.76; IL1
+8.8; B³¹d rozpoznawania znaków na tablicy
+8.84; Nie wykryto tablicy
+8.88; I7Z
+8.92; IXI
+8.96; JJJ
+9.0; TTT
+9.04; B³¹d rozpoznawania znaków na tablicy
+9.08; B³¹d rozpoznawania znaków na tablicy
+9.12; AII
+9.16; IAX
+9.2; 7JJ
+9.24; Nie wykryto tablicy
+9.28; B³¹d rozpoznawania znaków na tablicy
+9.32; P4J
+9.36; B³¹d rozpoznawania znaków na tablicy
+9.4; B³¹d rozpoznawania znaków na tablicy
+9.44; B³¹d rozpoznawania znaków na tablicy
+9.48; B³¹d rozpoznawania znaków na tablicy
+9.52; L6I
+9.56; Nie wykryto tablicy
+9.6; JJA
+9.64; FDIIF
+9.68; IIII
+9.72; III
+9.76; Nie wykryto tablicy
+9.8; TTT
+9.84; TTT
+9.88; TTT
+9.92; 111
+9.96; FIL
+10.0; B³¹d rozpoznawania znaków na tablicy
+10.04; 1IIJ
+10.08; TTY
+10.12; CUII
+10.16; III
+10.2; IIII
+10.24; B³¹d rozpoznawania znaków na tablicy
+10.28; L34
+10.32; B³¹d rozpoznawania znaków na tablicy
+10.36; YIGI
+10.4; Nie wykryto tablicy
+10.44; YXH
+10.48; B³¹d rozpoznawania znaków na tablicy
+10.52; 5L1
+10.56; IIH1M
+10.6; P4C
+10.64; PI30K
+10.68; 7CF5
+10.72; 1164
+10.76; AQB
+10.8; B³¹d rozpoznawania znaków na tablicy
+10.84; III
+10.88; J7I6I
+10.92; LJT
+10.96; FII
+11.0; 1JJ5
+11.04; IIIII
+11.08; IIIII
+11.12; VXLN
+11.16; II1I1
+11.2; PNJ7X
+11.24; II1I1
+11.28; IIII
+11.32; 7N7X
+11.36; JTIJ1I1
+11.4; 7XJ7X7X
+11.44; I111I1
+11.48; J7Y7XZX
+11.52; J7XJ7X7
+11.56; U7U7X7XJ
+11.6; U7U7X71
+11.64; U77JXJ
+11.68; U7X07X
+11.72; 17J77
+11.76; JFJLI
+11.8; 5Y7Y
+11.84; F5R
+11.88; B³¹d rozpoznawania znaków na tablicy
+11.92; Nie wykryto tablicy
+11.96; Nie wykryto tablicy
+12.0; Nie wykryto tablicy
+12.04; Nie wykryto tablicy
+12.08; Nie wykryto tablicy
+12.12; Nie wykryto tablicy
+12.16; 47Q
+12.2; Nie wykryto tablicy
+12.24; PJQ
+12.28; 4AI
+12.32; Nie wykryto tablicy
+12.36; Nie wykryto tablicy
+12.4; B³¹d rozpoznawania znaków na tablicy
+12.44; B³¹d rozpoznawania znaków na tablicy
+12.48; B³¹d rozpoznawania znaków na tablicy
+12.52; TTT
+12.56; 1II
+12.6; III
+12.64; JJJ
+12.68; III
+12.72; FJY
+12.76; LFC
+12.8; III
+12.84; Nie wykryto tablicy
+12.88; B³¹d rozpoznawania znaków na tablicy
+12.92; ILII
+12.96; B³¹d rozpoznawania znaków na tablicy
+13.0; Nie wykryto tablicy
+13.04; III
+13.08; 4IT
+13.12; Nie wykryto tablicy
+13.16; B³¹d rozpoznawania znaków na tablicy
+13.2; 4I2
+13.24; II4
+13.28; T7T
+13.32; B³¹d rozpoznawania znaków na tablicy
+13.36; B³¹d rozpoznawania znaków na tablicy
+13.4; JJJ
+13.44; 1111
+13.48; Nie wykryto tablicy
+13.52; XSX
+13.56; PAD
+13.6; I1I
+13.64; IIPI
+13.68; 7TT
+13.72; Nie wykryto tablicy
+13.76; Nie wykryto tablicy
+13.8; Nie wykryto tablicy
+13.84; B³¹d rozpoznawania znaków na tablicy
+13.88; TTXT
+13.92; III
+13.96; III
+14.0; TTT
+14.04; J3T
+14.08; JJJ
+14.12; III7
+14.16; IIII
+14.2; IIII
+14.24; 417W
+14.28; I11I
+14.32; PIJ
+14.36; TTT
+14.4; YIID
+14.44; 117VJ
+14.48; IIII
+14.52; IIXA
+14.56; IIF
+14.6; 4YXA
+14.64; IVY
+14.68; KYB
+14.72; A74I
+14.76; LTQA
+14.8; P1GY
+14.84; ITAD
+14.88; 5JIAKI
+14.92; IYT7
+14.96; AYK7
+15.0; 2J1VN
+15.04; IIIIJ
+15.08; VVNG
+15.12; IJXI
+15.16; TTAA
+15.2; RUJ
+15.24; 7JF0
+15.28; PYLA
+15.32; 2V71
+15.36; ICPF
+15.4; 7TI17
+15.44; IPI
+15.48; HIII
+15.52; IIII
+15.56; KII3
+15.6; VI1Y5
+15.64; AWUN
+15.68; XIII1
+15.72; AI0R
+15.76; XJ7Y
+15.8; XII0I
+15.84; THL4V
+15.88; KKANI0
+15.92; FA12I
+15.96; ILIH
+16.0; VLE
+16.04; DU7J
+16.08; 4VMIFJ
+16.12; YIIII
+16.16; ARI4
+16.2; YK277
+16.24; I1IH
+16.28; 372I
+16.32; AAZ7A
+16.36; AVI1I
+16.4; JIICP
+16.44; TLVJ
+16.48; III1J
+16.52; IVIII
+16.56; XLTP
+16.6; AI27
+16.64; 4H7H
+16.68; XIAA1
+16.72; IAAA
+16.76; IKPFI
+16.8; 1II
+16.84; G4JUAM
+16.88; YI61
+16.92; PADST
+16.96; 6AGY
+17.0; 45A
+17.04; L4U1
+17.08; 474P
+17.12; Y7LLHZX
+17.16; HJCI
+17.2; 7UJ7
+17.24; HJRJI
+17.28; AAKW
+17.32; 7M5JF
+17.36; III9I
+17.4; TJA
+17.44; LII
+17.48; PII
+17.52; I8I
+17.56; YFIX
+17.6; 47WJ
+17.64; III
+17.68; 7Y11
+17.72; WWYV
+17.76; 5II57
+17.8; I7IA
+17.84; 4NA
+17.88; BIW
+17.92; 7II1LJ
+17.96; K7167
+18.0; KPAN
+18.04; A7I44
+18.08; TLT
+18.12; J7W7
+18.16; 2IIHD
+18.2; IINU
+18.24; LZQXI7
+18.28; 27HY
+18.32; IN3
+18.36; III0
+18.4; IIQU
+18.44; HOXF0
+18.48; IIID
+18.52; IB8B
+18.56; 5AU1
+18.6; ZVAVN
+18.64; 7IIU
+18.68; VFK41V
+18.72; 1III
+18.76; II72
+18.8; WJRMR
+18.84; I4II
+18.88; WLKWMHP
+18.92; VWYP
+18.96; 9VJ6H
+19.0; IIUK
+19.04; PJHLA
+19.08; JV4NB
+19.12; LEA7L
+19.16; 7II0
+19.2; III8
+19.24; 1A41
+19.28; KLLJ
+19.32; 2C221
+19.36; Y4RC
+19.4; Q21AX
+19.44; 7WJLF
+19.48; HY2HH
+19.52; PFI
+19.56; 1A7UAO
+19.6; XI1IXHI
+19.64; FX7IA
+19.68; HUHUH
+19.72; UP4I9
+19.76; IFA4AR
+19.8; 75KPV
+19.84; Y2JY7
+19.88; IX65
+19.92; ILN3P
+19.96; WP1NFZ
+20.0; IIAK
+20.04; 27V7PJ
+20.08; II1LI
+20.12; C7XLI
+20.16; 44U2VL
+20.2; PJA5JN
+20.24; HL4ZA
+20.28; 2V9V
+20.32; IIIIIA
+20.36; II1IIIID4
+20.4; IIIIG
+20.44; PTDLH
+20.48; DHLHH
+20.52; L7YX1
+20.56; QAI2I
+20.6; 4L1P1X
+20.64; YYMVZ
+20.68; 3LLD
+20.72; JFIP
+20.76; T1LHD
+20.8; DL0IIII
+20.84; W7PWA
+20.88; O8IIIG
+20.92; GBIBID
+20.96; HF50BI
+21.0; U7U7IX
+21.04; IICYIL
+21.08; X214FA
+21.12; 4HZY7
+21.16; XK4LV
+21.2; 4I7I1
+21.24; PWLY7J
+21.28; 0KMP1
+21.32; 7CNLK
+21.36; LIII
+21.4; L1EBII
+21.44; 7FIII
+21.48; 4WRMF
+21.52; TLCBIII
+21.56; RVLDLBIID
+21.6; 11IKX
+21.64; H6II5YIAI
+21.68; 5C8IIG
+21.72; JP4FIIIG
+21.76; C6III
+21.8; 5CIII
+21.84; JCDDI
+21.88; 56IIIG
+21.92; 1WHJZY
+21.96; GVQ4WK
+22.0; JFIVII
+22.04; AEDI
+22.08; JF4VII
+22.12; IIIII
+22.16; JFBVII
+22.2; HAJTJ
+22.24; LV1CF
+22.28; TJ7V7UQ
+22.32; CI4IIG
+22.36; TA4V2
+22.4; VAPJA
+22.44; FUIIG
+22.48; 4WI2FX
+22.52; DDEI0
+22.56; V4CU
+22.6; I4RF5JX
+22.64; AN5JLJ
+22.68; QNUWC
+22.72; CG15L
+22.76; 4IN41
+22.8; UIIHHIG
+22.84; EHHI
+22.88; IUIIG
+22.92; EBII
+22.96; C47QQ
+23.0; BBBI
+23.04; OKDNII
+23.08; L77RV
+23.12; RUUBI
+23.16; LT4HHIIG
+23.2; LLIBUII
+23.24; LHHUII
+23.28; VL71J
+23.32; LFM8DII
+23.36; IJUIIII
+23.4; L0MEF8G
+23.44; LKBBB
+23.48; 1ZLL425
+23.52; 1I4M7
+23.56; LEB8II
+23.6; XP2X77
+23.64; LKDUI
+23.68; 7LUVC
+23.72; ILUH0
+23.76; DTVXAYHPM
+23.8; JCA467
+23.84; HULUU
+23.88; LIBBII
+23.92; Y1VA4W
+23.96; JHLDDU
+24.0; LKBII
+24.04; ZLJ1YR
+24.08; I144I
+24.12; L1IBUDI
+24.16; KHHBI0
+24.2; B1D3D
+24.24; ULDJ0
+24.28; RLJJQI
+24.32; LJ408E
+24.36; KEBII
+24.4; JP8IG
+24.44; 4X1XIT
+24.48; 1IBU9
+24.52; I6XMNP
+24.56; YLXA1D
+24.6; DLGUPL
+24.64; K8IIIG
+24.68; I7K8BII
+24.72; YIPIJT
+24.76; 6KZ9B4
+24.8; 6DULHD
+24.84; A7XYGA
+24.88; WWWUAH1
+24.92; IUT8UI
+24.96; IUBIII
+25.0; 7P5U7
+25.04; RJU91Y
+25.08; IHUBI
+25.12; DLUP
+25.16; LCJHIUHI0
+25.2; K7Y5II
+25.24; KNHBI
+25.28; 72KMUI
+25.32; 9BA1L5
+25.36; JKHHII
+25.4; CWHH0I
+25.44; JTIHBBI
+25.48; UBBII
+25.52; I7JLXAI
+25.56; 7UDNP
+25.6; QK0HBP
+25.64; JJILBBI
+25.68; 7JK8UBG
+25.72; 2KBBBI
+25.76; KHUBI
+25.8; 7I8VP
+25.84; 7JI8HG
+25.88; K40886
+25.92; MN7AU7I1L
+25.96; 7JN0UI
+26.0; Z6ZVL
+26.04; 7I8IIQ
+26.08; 12TKHLII
+26.12; JJJIRBLII
+26.16; KBU8IG
+26.2; 7KDFBIG
+26.24; YIIPYV
+26.28; JIBHII
+26.32; 7DILII
+26.36; BBDII
+26.4; IH4IG
+26.44; KBBIII
+26.48; 47LW1
+26.52; KHHIIG
+26.56; JIBBL
+26.6; KL4088
+26.64; 4D88J
+26.68; UDHUP
+26.72; 7JI8HIG
+26.76; JIBHII
+26.8; JIHVIG
+26.84; 1I74EFE
+26.88; KL40886
+26.92; KL0886
+26.96; 2JIBBII
+27.0; 2UII7X
+27.04; D8857
+27.08; D88652
+27.12; UJI0HI
+27.16; K8HIIG
+27.2; 4D886
+27.24; LJIOHI
+27.28; IHIIIG
+27.32; 4D8811
+27.36; JKHIII
+27.4; JKHIII
+27.44; 7HMDI
+27.48; TYW17
+27.52; 4IHUL
+27.56; 2JKHBIII
+27.6; KL4088
+27.64; 08889
+27.68; II4II
+27.72; K4088
+27.76; LKL4088
+27.8; JIHBIII
+27.84; PUPDP
+27.88; GZ74MF
+27.92; P1U0HI0
+27.96; IRBII
+28.0; 4JICB
+28.04; AULA4
+28.08; JIHHIG
+28.12; I8HIG
+28.16; VH7AT
+28.2; JIHHIG
+28.24; TV0JL
+28.28; 7KRMMG
+28.32; JI8HI
+28.36; K088
+28.4; 4JKHBBI
+28.44; INAKA754
+28.48; IKBUDG
+28.52; ILIIBI
+28.56; UKASY
+28.6; VN1KV
+28.64; 1II4III
+28.68; KL4088
+28.72; 7K8BI
+28.76; IBBII
+28.8; VIJIG
+28.84; KL4088
+28.88; 7JK8BI9G
+28.92; JKIBII
+28.96; K4088
+29.0; C7L7F
+29.04; IUFIQ
+29.08; 4YI11YJ1
+29.12; KL4088
+29.16; 08885
+29.2; 48885
+29.24; JJIMUII
+29.28; 2JKEB0I
+29.32; 7KDIG
+29.36; IB6DI
+29.4; 1JKHB0I
+29.44; Y7IIRII
+29.48; W1KVR1T
+29.52; UXXIRY
+29.56; 40883V
+29.6; K4088
+29.64; 1LJHI
+29.68; 4JIHBIII
+29.72; DDDD
+29.76; AII4III
+29.8; A1I6BBI
+29.84; 1GBBI
+29.88; AJKGBBI
+29.92; 146BBI
+29.96; 4884J
+30.0; JK0U0G
+30.04; K4D88
+30.08; IUPUP
+30.12; I2IPII
+30.16; ICJK0U
+30.2; JIJZL
+30.24; JIJHUG
+30.28; IFIYI7N
+30.32; XIUI
+30.36; 74IHBBI
+30.4; AIIBBII
+30.44; VHJIG
+30.48; JKHBH
+30.52; JUMUHI
+30.56; JJKHBBI
+30.6; 15QLL
+30.64; J71UDHG
+30.68; JIBBIT
+30.72; VIJHTJ
+30.76; IIPYMN
+30.8; INU2
+30.84; JIHHIG
+30.88; 088852
+30.92; II1IIK6X
+30.96; 4D88H
+31.0; W4UUYL
+31.04; XIUUL
+31.08; F7II77
+31.12; VPKPK
+31.16; KL088
+31.2; JJIHBII
+31.24; IIIIPI
+31.28; JIUCEI
+31.32; CLPIXII
+31.36; UPUP
+31.4; JIHFIG
+31.44; 7K0UMG
+31.48; JJIHBBI
+31.52; JIHBII
+31.56; IINXPKS
+31.6; 4JJIB4BI
+31.64; LDIII
+31.68; JIBBBI
+31.72; 1U44II
+31.76; 9II4UIIG
+31.8; K4088
+31.84; 08852
+31.88; TWKQHK
+31.92; VAA51
+31.96; JKHBII
+32.0; V4EIG
+32.04; NUBIIL
+32.08; 747IILR
+32.12; M1IHIAV
+32.16; A3I1CV
+32.2; JPUP
+32.24; JK0LBG
+32.28; FI1X1
+32.32; PHPUP
+32.36; JIRLBI
+32.4; XAP4T
+32.44; ATIRLBI
+32.48; 4KPFDG
+32.52; IGDII
+32.56; RYFT7
+32.6; 77AVTT
+32.64; TV48V
+32.68; III7N
+32.72; YJ257
+32.76; XLVXRR
+32.8; LPLJ
+32.84; 1754
+32.88; I1ALII
+32.92; L4O88
+32.96; X11VXF
+33.0; I8UII
+33.04; KL40887
+33.08; ARWLT
+33.12; U6UP
+33.16; XR1YF
+33.2; KL4088
+33.24; 7KDHFG
+33.28; 7IK4I
+33.32; KL4088Q
+33.36; L4088
+33.4; 7KNNHG
+33.44; 7JLYIA
+33.48; TKHBBI
+33.52; KL4O88
+33.56; PLHU
+33.6; JJKHBBI
+33.64; UJJK0BU
+33.68; KL40886
+33.72; 21WNP8I
+33.76; 4KMHIIG
+33.8; 2KHBII
+33.84; 1C1PNUII
+33.88; F7T6NUM
+33.92; JA7ADVF
+33.96; 4UQHII
+34.0; 11IINII
+34.04; JJIBBII
+34.08; LLJJ
+34.12; RFVAYA
+34.16; JK0HDG
+34.2; XIU4II
+34.24; IIVII
+34.28; JIHBII
+34.32; JJIHBII
+34.36; 4JFIG
+34.4; KL4088
+34.44; UPUD
+34.48; 1IBHII
+34.52; JKHHIG
+34.56; L4088Q
+34.6; KL4O88
+34.64; KL4088
+34.68; 4L8H
+34.72; IIHIG
+34.76; JIRBII
+34.8; JIIHIG
+34.84; XIU4II
+34.88; JHDHI
+34.92; 7JIBBII
+34.96; KL40886
+35.0; JKHBII
+35.04; AIR4II
+35.08; KL088
+35.12; LKL4088
+35.16; XVI54
+35.2; 7JKHBII
+35.24; JIHBII
+35.28; 7JKHHII
+35.32; 4889I
+35.36; UBII
+35.4; WIYALK1
+35.44; TUPUP
+35.48; IJKUHD
+35.52; 9VL2WR
+35.56; KL4088
+35.6; KL4088
+35.64; JKHBII
+35.68; KL4088J
+35.72; JI8HII
+35.76; JKHBBI
+35.8; 77LA7L
+35.84; JIOHIIG
+35.88; KL088
+35.92; L17I1T
+35.96; IUBIG
+36.0; 7JRAP
+36.04; KL40886
+0.04; Nie wykryto tablicy
+0.08; Nie wykryto tablicy
+0.12; Nie wykryto tablicy
+0.16; Nie wykryto tablicy
+0.2; Nie wykryto tablicy
+0.24; Nie wykryto tablicy
+0.28; Nie wykryto tablicy
+0.32; 111I1111
+0.36; Nie wykryto tablicy
+0.4; Nie wykryto tablicy
+0.44; Nie wykryto tablicy
+0.48; II1II11
+0.52; Nie wykryto tablicy
+0.56; Nie wykryto tablicy
+0.6; Nie wykryto tablicy
+0.64; Nie wykryto tablicy
+0.68; Nie wykryto tablicy
+0.72; Nie wykryto tablicy
+0.76; Nie wykryto tablicy
+0.8; Nie wykryto tablicy
+0.84; Nie wykryto tablicy
+0.88; Nie wykryto tablicy
+0.92; Nie wykryto tablicy
+0.96; 1IIIIII
+1.0; Nie wykryto tablicy
+1.04; Nie wykryto tablicy
+1.08; Nie wykryto tablicy
+1.12; Nie wykryto tablicy
+1.16; Nie wykryto tablicy
+1.2; Nie wykryto tablicy
+1.24; Nie wykryto tablicy
+1.28; Nie wykryto tablicy
+1.32; Nie wykryto tablicy
+1.36; Nie wykryto tablicy
+1.4; Nie wykryto tablicy
+1.44; Nie wykryto tablicy
+1.48; Nie wykryto tablicy
+1.52; Nie wykryto tablicy
+1.56; Nie wykryto tablicy
+1.6; Nie wykryto tablicy
+1.64; Nie wykryto tablicy
+1.68; Nie wykryto tablicy
+1.72; Nie wykryto tablicy
+1.76; Nie wykryto tablicy
+1.8; Nie wykryto tablicy
+1.84; Nie wykryto tablicy
+1.88; Nie wykryto tablicy
+1.92; Nie wykryto tablicy
+1.96; Nie wykryto tablicy
+2.0; Nie wykryto tablicy
+2.04; Nie wykryto tablicy
+2.08; Nie wykryto tablicy
+2.12; Nie wykryto tablicy
+2.16; Nie wykryto tablicy
+2.2; Nie wykryto tablicy
+2.24; Nie wykryto tablicy
+2.28; Nie wykryto tablicy
+2.32; Nie wykryto tablicy
+2.36; Nie wykryto tablicy
+2.4; Nie wykryto tablicy
+2.44; Nie wykryto tablicy
+2.48; Nie wykryto tablicy
+2.52; Nie wykryto tablicy
+2.56; Nie wykryto tablicy
+2.6; Nie wykryto tablicy
+2.64; Nie wykryto tablicy
+2.68; Nie wykryto tablicy
+2.72; Nie wykryto tablicy
+2.76; Nie wykryto tablicy
+2.8; Nie wykryto tablicy
+2.84; Nie wykryto tablicy
+2.88; Nie wykryto tablicy
+2.92; Nie wykryto tablicy
+2.96; Nie wykryto tablicy
+3.0; Nie wykryto tablicy
+3.04; Nie wykryto tablicy
+3.08; Nie wykryto tablicy
+3.12; Nie wykryto tablicy
+3.16; Nie wykryto tablicy
+3.2; Nie wykryto tablicy
+3.24; Nie wykryto tablicy
+3.28; Nie wykryto tablicy
+3.32; Nie wykryto tablicy
+3.36; Nie wykryto tablicy
+3.4; Nie wykryto tablicy
+3.44; Nie wykryto tablicy
+3.48; Nie wykryto tablicy
+3.52; Nie wykryto tablicy
+3.56; Nie wykryto tablicy
+3.6; Nie wykryto tablicy
+3.64; Nie wykryto tablicy
+3.68; Nie wykryto tablicy
+3.72; Nie wykryto tablicy
+3.76; Nie wykryto tablicy
+3.8; Nie wykryto tablicy
+3.84; Nie wykryto tablicy
+3.88; Nie wykryto tablicy
+3.92; Nie wykryto tablicy
+3.96; Nie wykryto tablicy
+4.0; Nie wykryto tablicy
+4.04; Nie wykryto tablicy
+4.08; Nie wykryto tablicy
+4.12; Nie wykryto tablicy
+4.16; Nie wykryto tablicy
+4.2; Nie wykryto tablicy
+4.24; B³¹d rozpoznawania znaków na tablicy
+4.28; Nie wykryto tablicy
+4.32; Nie wykryto tablicy
+4.36; Nie wykryto tablicy
+4.4; Nie wykryto tablicy
+4.44; Nie wykryto tablicy
+4.48; Nie wykryto tablicy
+4.52; Nie wykryto tablicy
+4.56; Nie wykryto tablicy
+4.6; Nie wykryto tablicy
+4.64; Nie wykryto tablicy
+4.68; Nie wykryto tablicy
+4.72; Nie wykryto tablicy
+4.76; Nie wykryto tablicy
+4.8; Nie wykryto tablicy
+4.84; B³¹d rozpoznawania znaków na tablicy
+4.88; Nie wykryto tablicy
+4.92; Nie wykryto tablicy
+4.96; Nie wykryto tablicy
+5.0; Nie wykryto tablicy
+5.04; Nie wykryto tablicy
+5.08; Nie wykryto tablicy
+5.12; B³¹d rozpoznawania znaków na tablicy
+5.16; Nie wykryto tablicy
+5.2; Nie wykryto tablicy
+5.24; Nie wykryto tablicy
+5.28; Nie wykryto tablicy
+5.32; Nie wykryto tablicy
+5.36; B³¹d rozpoznawania znaków na tablicy
+5.4; Nie wykryto tablicy
+5.44; Nie wykryto tablicy
+5.48; B³¹d rozpoznawania znaków na tablicy
+5.52; Nie wykryto tablicy
+5.56; Nie wykryto tablicy
+5.6; Nie wykryto tablicy
+5.64; Nie wykryto tablicy
+5.68; Nie wykryto tablicy
+5.72; B³¹d rozpoznawania znaków na tablicy
+5.76; Nie wykryto tablicy
+5.8; B³¹d rozpoznawania znaków na tablicy
+5.84; Nie wykryto tablicy
+5.88; Nie wykryto tablicy
+5.92; Nie wykryto tablicy
+5.96; Nie wykryto tablicy
+6.0; B³¹d rozpoznawania znaków na tablicy
+6.04; B³¹d rozpoznawania znaków na tablicy
+6.08; B³¹d rozpoznawania znaków na tablicy
+6.12; Nie wykryto tablicy
+6.16; Nie wykryto tablicy
+6.2; Nie wykryto tablicy
+6.24; B³¹d rozpoznawania znaków na tablicy
+6.28; Nie wykryto tablicy
+6.32; B³¹d rozpoznawania znaków na tablicy
+6.36; Nie wykryto tablicy
+6.4; Nie wykryto tablicy
+6.44; Nie wykryto tablicy
+6.48; Nie wykryto tablicy
+6.52; Nie wykryto tablicy
+6.56; Nie wykryto tablicy
+6.6; Nie wykryto tablicy
+6.64; Nie wykryto tablicy
+6.68; Nie wykryto tablicy
+6.72; Nie wykryto tablicy
+6.76; Nie wykryto tablicy
+6.8; B³¹d rozpoznawania znaków na tablicy
+6.84; Nie wykryto tablicy
+6.88; Nie wykryto tablicy
+6.92; Nie wykryto tablicy
+6.96; Nie wykryto tablicy
+7.0; B³¹d rozpoznawania znaków na tablicy
+7.04; Nie wykryto tablicy
+7.08; Nie wykryto tablicy
+7.12; Nie wykryto tablicy
+7.16; Nie wykryto tablicy
+7.2; Nie wykryto tablicy
+7.24; Nie wykryto tablicy
+7.28; B³¹d rozpoznawania znaków na tablicy
+7.32; Nie wykryto tablicy
+7.36; Nie wykryto tablicy
+7.4; Nie wykryto tablicy
+7.44; B³¹d rozpoznawania znaków na tablicy
+7.48; B³¹d rozpoznawania znaków na tablicy
+7.52; Nie wykryto tablicy
+7.56; B³¹d rozpoznawania znaków na tablicy
+7.6; Nie wykryto tablicy
+7.64; Nie wykryto tablicy
+7.68; Nie wykryto tablicy
+7.72; Nie wykryto tablicy
+7.76; Nie wykryto tablicy
+7.8; Nie wykryto tablicy
+7.84; Nie wykryto tablicy
+7.88; Nie wykryto tablicy
+7.92; Nie wykryto tablicy
+7.96; Nie wykryto tablicy
+8.0; Nie wykryto tablicy
+8.04; Nie wykryto tablicy
+8.08; Nie wykryto tablicy
+8.12; Nie wykryto tablicy
+8.16; Nie wykryto tablicy
+8.2; Nie wykryto tablicy
+8.24; Nie wykryto tablicy
+8.28; Nie wykryto tablicy
+8.32; Nie wykryto tablicy
+8.36; Nie wykryto tablicy
+8.4; Nie wykryto tablicy
+8.44; Nie wykryto tablicy
+8.48; Nie wykryto tablicy
+8.52; Nie wykryto tablicy
+8.56; Nie wykryto tablicy
+8.6; Nie wykryto tablicy
+8.64; B³¹d rozpoznawania znaków na tablicy
+8.68; Nie wykryto tablicy
+8.72; Nie wykryto tablicy
+8.76; B³¹d rozpoznawania znaków na tablicy
+8.8; B³¹d rozpoznawania znaków na tablicy
+8.84; Nie wykryto tablicy
+8.88; B³¹d rozpoznawania znaków na tablicy
+8.92; Nie wykryto tablicy
+8.96; Nie wykryto tablicy
+9.0; Nie wykryto tablicy
+9.04; B³¹d rozpoznawania znaków na tablicy
+9.08; Nie wykryto tablicy
+9.12; B³¹d rozpoznawania znaków na tablicy
+9.16; Nie wykryto tablicy
+9.2; Nie wykryto tablicy
+9.24; Nie wykryto tablicy
+9.28; B³¹d rozpoznawania znaków na tablicy
+9.32; Nie wykryto tablicy
+9.36; B³¹d rozpoznawania znaków na tablicy
+9.4; Nie wykryto tablicy
+9.44; B³¹d rozpoznawania znaków na tablicy
+9.48; B³¹d rozpoznawania znaków na tablicy
+9.52; Nie wykryto tablicy
+9.56; Nie wykryto tablicy
+9.6; Nie wykryto tablicy
+9.64; Nie wykryto tablicy
+9.68; Nie wykryto tablicy
+9.72; B³¹d rozpoznawania znaków na tablicy
+9.76; Nie wykryto tablicy
+9.8; Nie wykryto tablicy
+9.84; Nie wykryto tablicy
+9.88; Nie wykryto tablicy
+9.92; Nie wykryto tablicy
+9.96; Nie wykryto tablicy
+10.0; B³¹d rozpoznawania znaków na tablicy
+10.04; Nie wykryto tablicy
+10.08; Nie wykryto tablicy
+10.12; Nie wykryto tablicy
+10.16; Nie wykryto tablicy
+10.2; Nie wykryto tablicy
+10.24; B³¹d rozpoznawania znaków na tablicy
+10.28; Nie wykryto tablicy
+10.32; Nie wykryto tablicy
+10.36; Nie wykryto tablicy
+10.4; Nie wykryto tablicy
+10.44; Nie wykryto tablicy
+10.48; Nie wykryto tablicy
+10.52; Nie wykryto tablicy
+10.56; Nie wykryto tablicy
+10.6; Nie wykryto tablicy
+10.64; Nie wykryto tablicy
+10.68; Nie wykryto tablicy
+10.72; Nie wykryto tablicy
+10.76; Nie wykryto tablicy
+10.8; Nie wykryto tablicy
+10.84; B³¹d rozpoznawania znaków na tablicy
+10.88; Nie wykryto tablicy
+10.92; Nie wykryto tablicy
+10.96; Nie wykryto tablicy
+11.0; Nie wykryto tablicy
+11.04; Nie wykryto tablicy
+11.08; Nie wykryto tablicy
+11.12; Nie wykryto tablicy
+11.16; Nie wykryto tablicy
+11.2; Nie wykryto tablicy
+11.24; Nie wykryto tablicy
+11.28; Nie wykryto tablicy
+11.32; Nie wykryto tablicy
+11.36; JTIJ1I1
+11.4; Nie wykryto tablicy
+11.44; Nie wykryto tablicy
+11.48; Nie wykryto tablicy
+11.52; Nie wykryto tablicy
+11.56; Nie wykryto tablicy
+11.6; Nie wykryto tablicy
+11.64; LJJULJJ
+11.68; 7X7XU7X
+11.72; Nie wykryto tablicy
+11.76; Nie wykryto tablicy
+11.8; Nie wykryto tablicy
+11.84; Nie wykryto tablicy
+11.88; B³¹d rozpoznawania znaków na tablicy
+11.92; Nie wykryto tablicy
+11.96; Nie wykryto tablicy
+12.0; Nie wykryto tablicy
+12.04; Nie wykryto tablicy
+12.08; Nie wykryto tablicy
+12.12; Nie wykryto tablicy
+12.16; B³¹d rozpoznawania znaków na tablicy
+12.2; Nie wykryto tablicy
+12.24; Nie wykryto tablicy
+12.28; B³¹d rozpoznawania znaków na tablicy
+12.32; Nie wykryto tablicy
+12.36; Nie wykryto tablicy
+12.4; B³¹d rozpoznawania znaków na tablicy
+12.44; B³¹d rozpoznawania znaków na tablicy
+12.48; B³¹d rozpoznawania znaków na tablicy
+12.52; Nie wykryto tablicy
+12.56; B³¹d rozpoznawania znaków na tablicy
+12.6; B³¹d rozpoznawania znaków na tablicy
+12.64; B³¹d rozpoznawania znaków na tablicy
+12.68; B³¹d rozpoznawania znaków na tablicy
+12.72; Nie wykryto tablicy
+12.76; Nie wykryto tablicy
+12.8; Nie wykryto tablicy
+12.84; Nie wykryto tablicy
+12.88; B³¹d rozpoznawania znaków na tablicy
+12.92; Nie wykryto tablicy
+12.96; B³¹d rozpoznawania znaków na tablicy
+13.0; Nie wykryto tablicy
+13.04; B³¹d rozpoznawania znaków na tablicy
+13.08; B³¹d rozpoznawania znaków na tablicy
+13.12; Nie wykryto tablicy
+13.16; B³¹d rozpoznawania znaków na tablicy
+13.2; Nie wykryto tablicy
+13.24; Nie wykryto tablicy
+13.28; Nie wykryto tablicy
+13.32; Nie wykryto tablicy
+13.36; B³¹d rozpoznawania znaków na tablicy
+13.4; Nie wykryto tablicy
+13.44; B³¹d rozpoznawania znaków na tablicy
+13.48; Nie wykryto tablicy
+13.52; Nie wykryto tablicy
+13.56; Nie wykryto tablicy
+13.6; Nie wykryto tablicy
+13.64; Nie wykryto tablicy
+13.68; B³¹d rozpoznawania znaków na tablicy
+13.72; Nie wykryto tablicy
+13.76; Nie wykryto tablicy
+13.8; Nie wykryto tablicy
+13.84; B³¹d rozpoznawania znaków na tablicy
+13.88; Nie wykryto tablicy
+13.92; Nie wykryto tablicy
+13.96; Nie wykryto tablicy
+14.0; Nie wykryto tablicy
+14.04; Nie wykryto tablicy
+14.08; Nie wykryto tablicy
+14.12; Nie wykryto tablicy
+14.16; Nie wykryto tablicy
+14.2; Nie wykryto tablicy
+14.24; Nie wykryto tablicy
+14.28; Nie wykryto tablicy
+14.32; Nie wykryto tablicy
+14.36; Nie wykryto tablicy
+14.4; Nie wykryto tablicy
+14.44; Nie wykryto tablicy
+14.48; Nie wykryto tablicy
+14.52; Nie wykryto tablicy
+14.56; Nie wykryto tablicy
+14.6; Nie wykryto tablicy
+14.64; Nie wykryto tablicy
+14.68; Nie wykryto tablicy
+14.72; Nie wykryto tablicy
+14.76; Nie wykryto tablicy
+14.8; Nie wykryto tablicy
+14.84; Nie wykryto tablicy
+14.88; Nie wykryto tablicy
+14.92; Nie wykryto tablicy
+14.96; Nie wykryto tablicy
+15.0; Nie wykryto tablicy
+15.04; Nie wykryto tablicy
+15.08; Nie wykryto tablicy
+15.12; Nie wykryto tablicy
+15.16; Nie wykryto tablicy
+15.2; Nie wykryto tablicy
+15.24; Nie wykryto tablicy
+15.28; Nie wykryto tablicy
+15.32; Nie wykryto tablicy
+15.36; Nie wykryto tablicy
+15.4; Nie wykryto tablicy
+15.44; Nie wykryto tablicy
+15.48; Nie wykryto tablicy
+15.52; Nie wykryto tablicy
+15.56; Nie wykryto tablicy
+15.6; Nie wykryto tablicy
+15.64; Nie wykryto tablicy
+15.68; Nie wykryto tablicy
+15.72; Nie wykryto tablicy
+15.76; Nie wykryto tablicy
+15.8; Nie wykryto tablicy
+15.84; Nie wykryto tablicy
+15.88; Nie wykryto tablicy
+15.92; Nie wykryto tablicy
+15.96; Nie wykryto tablicy
+16.0; Nie wykryto tablicy
+16.04; Nie wykryto tablicy
+16.08; Nie wykryto tablicy
+16.12; Nie wykryto tablicy
+16.16; Nie wykryto tablicy
+16.2; Nie wykryto tablicy
+16.24; Nie wykryto tablicy
+16.28; Nie wykryto tablicy
+16.32; Nie wykryto tablicy
+16.36; Nie wykryto tablicy
+16.4; Nie wykryto tablicy
+16.44; Nie wykryto tablicy
+16.48; Nie wykryto tablicy
+16.52; Nie wykryto tablicy
+16.56; Nie wykryto tablicy
+16.6; Nie wykryto tablicy
+16.64; Nie wykryto tablicy
+16.68; Nie wykryto tablicy
+16.72; Nie wykryto tablicy
+16.76; Nie wykryto tablicy
+16.8; Nie wykryto tablicy
+16.84; Nie wykryto tablicy
+16.88; Nie wykryto tablicy
+16.92; Nie wykryto tablicy
+16.96; Nie wykryto tablicy
+17.0; Nie wykryto tablicy
+17.04; Nie wykryto tablicy
+17.08; Nie wykryto tablicy
+17.12; Nie wykryto tablicy
+17.16; Nie wykryto tablicy
+17.2; Nie wykryto tablicy
+17.24; Nie wykryto tablicy
+17.28; Nie wykryto tablicy
+17.32; Nie wykryto tablicy
+17.36; Nie wykryto tablicy
+17.4; Nie wykryto tablicy
+17.44; Nie wykryto tablicy
+17.48; Nie wykryto tablicy
+17.52; Nie wykryto tablicy
+17.56; Nie wykryto tablicy
+17.6; Nie wykryto tablicy
+17.64; Nie wykryto tablicy
+17.68; Nie wykryto tablicy
+17.72; Nie wykryto tablicy
+17.76; Nie wykryto tablicy
+17.8; Nie wykryto tablicy
+17.84; Nie wykryto tablicy
+17.88; Nie wykryto tablicy
+17.92; Nie wykryto tablicy
+17.96; Nie wykryto tablicy
+18.0; Nie wykryto tablicy
+18.04; Nie wykryto tablicy
+18.08; Nie wykryto tablicy
+18.12; Nie wykryto tablicy
+18.16; Nie wykryto tablicy
+18.2; Nie wykryto tablicy
+18.24; Nie wykryto tablicy
+18.28; Nie wykryto tablicy
+18.32; Nie wykryto tablicy
+18.36; Nie wykryto tablicy
+18.4; Nie wykryto tablicy
+18.44; Nie wykryto tablicy
+18.48; Nie wykryto tablicy
+18.52; Nie wykryto tablicy
+18.56; Nie wykryto tablicy
+18.6; Nie wykryto tablicy
+18.64; Nie wykryto tablicy
+18.68; Nie wykryto tablicy
+18.72; Nie wykryto tablicy
+18.76; Nie wykryto tablicy
+18.8; Nie wykryto tablicy
+18.84; Nie wykryto tablicy
+18.88; Nie wykryto tablicy
+18.92; Nie wykryto tablicy
+18.96; Nie wykryto tablicy
+19.0; Nie wykryto tablicy
+19.04; Nie wykryto tablicy
+19.08; Nie wykryto tablicy
+19.12; Nie wykryto tablicy
+19.16; Nie wykryto tablicy
+19.2; Nie wykryto tablicy
+19.24; Nie wykryto tablicy
+19.28; Nie wykryto tablicy
+19.32; Nie wykryto tablicy
+19.36; Nie wykryto tablicy
+19.4; Nie wykryto tablicy
+19.44; Nie wykryto tablicy
+19.48; 1JW3YT1
+19.52; Nie wykryto tablicy
+19.56; Nie wykryto tablicy
+19.6; Nie wykryto tablicy
+19.64; Nie wykryto tablicy
+19.68; Nie wykryto tablicy
+19.72; Nie wykryto tablicy
+19.76; Nie wykryto tablicy
+19.8; Nie wykryto tablicy
+19.84; Nie wykryto tablicy
+19.88; Nie wykryto tablicy
+19.92; Nie wykryto tablicy
+19.96; PWP1NFZ
+20.0; Nie wykryto tablicy
+20.04; Nie wykryto tablicy
+20.08; Nie wykryto tablicy
+20.12; Nie wykryto tablicy
+20.16; Nie wykryto tablicy
+20.2; Nie wykryto tablicy
+20.24; Nie wykryto tablicy
+20.28; Nie wykryto tablicy
+20.32; Nie wykryto tablicy
+20.36; Nie wykryto tablicy
+20.4; Nie wykryto tablicy
+20.44; Nie wykryto tablicy
+20.48; Nie wykryto tablicy
+20.52; Nie wykryto tablicy
+20.56; Nie wykryto tablicy
+20.6; Nie wykryto tablicy
+20.64; Nie wykryto tablicy
+20.68; Nie wykryto tablicy
+20.72; Nie wykryto tablicy
+20.76; Nie wykryto tablicy
+20.8; VJ14CBII
+20.84; Nie wykryto tablicy
+20.88; Nie wykryto tablicy
+20.92; Nie wykryto tablicy
+20.96; Nie wykryto tablicy
+21.0; Nie wykryto tablicy
+21.04; Nie wykryto tablicy
+21.08; Nie wykryto tablicy
+21.12; Nie wykryto tablicy
+21.16; Nie wykryto tablicy
+21.2; Nie wykryto tablicy
+21.24; Nie wykryto tablicy
+21.28; Nie wykryto tablicy
+21.32; Nie wykryto tablicy
+21.36; Nie wykryto tablicy
+21.4; Nie wykryto tablicy
+21.44; Nie wykryto tablicy
+21.48; Nie wykryto tablicy
+21.52; Nie wykryto tablicy
+21.56; RVLDLBIID
+21.6; Nie wykryto tablicy
+21.64; Nie wykryto tablicy
+21.68; Nie wykryto tablicy
+21.72; Nie wykryto tablicy
+21.76; Nie wykryto tablicy
+21.8; Nie wykryto tablicy
+21.84; Nie wykryto tablicy
+21.88; Nie wykryto tablicy
+21.92; Nie wykryto tablicy
+21.96; Nie wykryto tablicy
+22.0; Nie wykryto tablicy
+22.04; Nie wykryto tablicy
+22.08; Nie wykryto tablicy
+22.12; Nie wykryto tablicy
+22.16; Nie wykryto tablicy
+22.2; Nie wykryto tablicy
+22.24; Nie wykryto tablicy
+22.28; TJ7V7UQ
+22.32; Nie wykryto tablicy
+22.36; Nie wykryto tablicy
+22.4; Nie wykryto tablicy
+22.44; Nie wykryto tablicy
+22.48; Nie wykryto tablicy
+22.52; Nie wykryto tablicy
+22.56; Nie wykryto tablicy
+22.6; Nie wykryto tablicy
+22.64; Nie wykryto tablicy
+22.68; Nie wykryto tablicy
+22.72; VCUH7T1
+22.76; Nie wykryto tablicy
+22.8; Nie wykryto tablicy
+22.84; Nie wykryto tablicy
+22.88; Nie wykryto tablicy
+22.92; Nie wykryto tablicy
+22.96; Nie wykryto tablicy
+23.0; Nie wykryto tablicy
+23.04; Nie wykryto tablicy
+23.08; Nie wykryto tablicy
+23.12; Nie wykryto tablicy
+23.16; LKEUBIP
+23.2; LLIBUII
+23.24; Nie wykryto tablicy
+23.28; Nie wykryto tablicy
+23.32; Nie wykryto tablicy
+23.36; IJUIIII
+23.4; L0EBIBI
+23.44; Nie wykryto tablicy
+23.48; Nie wykryto tablicy
+23.52; Nie wykryto tablicy
+23.56; Nie wykryto tablicy
+23.6; Nie wykryto tablicy
+23.64; Nie wykryto tablicy
+23.68; Nie wykryto tablicy
+23.72; Nie wykryto tablicy
+23.76; DTVXAYHPM
+23.8; Nie wykryto tablicy
+23.84; Nie wykryto tablicy
+23.88; Nie wykryto tablicy
+23.92; Nie wykryto tablicy
+23.96; Nie wykryto tablicy
+24.0; Nie wykryto tablicy
+24.04; Nie wykryto tablicy
+24.08; Nie wykryto tablicy
+24.12; Nie wykryto tablicy
+24.16; Nie wykryto tablicy
+24.2; QVAVADV
+24.24; Nie wykryto tablicy
+24.28; Nie wykryto tablicy
+24.32; Nie wykryto tablicy
+24.36; Nie wykryto tablicy
+24.4; Nie wykryto tablicy
+24.44; Nie wykryto tablicy
+24.48; Nie wykryto tablicy
+24.52; Nie wykryto tablicy
+24.56; Nie wykryto tablicy
+24.6; ITCBBBI
+24.64; Nie wykryto tablicy
+24.68; Nie wykryto tablicy
+24.72; Nie wykryto tablicy
+24.76; Nie wykryto tablicy
+24.8; Nie wykryto tablicy
+24.84; Nie wykryto tablicy
+24.88; Nie wykryto tablicy
+24.92; Nie wykryto tablicy
+24.96; Nie wykryto tablicy
+25.0; Nie wykryto tablicy
+25.04; Nie wykryto tablicy
+25.08; 7AIB4BI
+25.12; Nie wykryto tablicy
+25.16; LCJHIUHI0
+25.2; Nie wykryto tablicy
+25.24; Nie wykryto tablicy
+25.28; Nie wykryto tablicy
+25.32; Nie wykryto tablicy
+25.36; Nie wykryto tablicy
+25.4; Nie wykryto tablicy
+25.44; Nie wykryto tablicy
+25.48; Nie wykryto tablicy
+25.52; Nie wykryto tablicy
+25.56; Nie wykryto tablicy
+25.6; Nie wykryto tablicy
+25.64; Nie wykryto tablicy
+25.68; Nie wykryto tablicy
+25.72; Nie wykryto tablicy
+25.76; Nie wykryto tablicy
+25.8; Nie wykryto tablicy
+25.84; Nie wykryto tablicy
+25.88; Nie wykryto tablicy
+25.92; Nie wykryto tablicy
+25.96; Nie wykryto tablicy
+26.0; Nie wykryto tablicy
+26.04; Nie wykryto tablicy
+26.08; 2TKBFIII
+26.12; Nie wykryto tablicy
+26.16; Nie wykryto tablicy
+26.2; Nie wykryto tablicy
+26.24; Nie wykryto tablicy
+26.28; Nie wykryto tablicy
+26.32; Nie wykryto tablicy
+26.36; JJIHBII
+26.4; Nie wykryto tablicy
+26.44; Nie wykryto tablicy
+26.48; Nie wykryto tablicy
+26.52; Nie wykryto tablicy
+26.56; Nie wykryto tablicy
+26.6; Nie wykryto tablicy
+26.64; Nie wykryto tablicy
+26.68; Nie wykryto tablicy
+26.72; Nie wykryto tablicy
+26.76; Nie wykryto tablicy
+26.8; Nie wykryto tablicy
+26.84; Nie wykryto tablicy
+26.88; KL40886
+26.92; Nie wykryto tablicy
+26.96; Nie wykryto tablicy
+27.0; Nie wykryto tablicy
+27.04; Nie wykryto tablicy
+27.08; Nie wykryto tablicy
+27.12; Nie wykryto tablicy
+27.16; Nie wykryto tablicy
+27.2; Nie wykryto tablicy
+27.24; Nie wykryto tablicy
+27.28; Nie wykryto tablicy
+27.32; Nie wykryto tablicy
+27.36; Nie wykryto tablicy
+27.4; Nie wykryto tablicy
+27.44; Nie wykryto tablicy
+27.48; Nie wykryto tablicy
+27.52; Nie wykryto tablicy
+27.56; Nie wykryto tablicy
+27.6; Nie wykryto tablicy
+27.64; Nie wykryto tablicy
+27.68; Nie wykryto tablicy
+27.72; Nie wykryto tablicy
+27.76; Nie wykryto tablicy
+27.8; Nie wykryto tablicy
+27.84; Nie wykryto tablicy
+27.88; Nie wykryto tablicy
+27.92; Nie wykryto tablicy
+27.96; Nie wykryto tablicy
+28.0; Nie wykryto tablicy
+28.04; Nie wykryto tablicy
+28.08; Nie wykryto tablicy
+28.12; Nie wykryto tablicy
+28.16; Nie wykryto tablicy
+28.2; Nie wykryto tablicy
+28.24; Nie wykryto tablicy
+28.28; Nie wykryto tablicy
+28.32; Nie wykryto tablicy
+28.36; Nie wykryto tablicy
+28.4; 4JKHBBI
+28.44; Nie wykryto tablicy
+28.48; Nie wykryto tablicy
+28.52; Nie wykryto tablicy
+28.56; Nie wykryto tablicy
+28.6; Nie wykryto tablicy
+28.64; Nie wykryto tablicy
+28.68; Nie wykryto tablicy
+28.72; Nie wykryto tablicy
+28.76; Nie wykryto tablicy
+28.8; ITK6BII
+28.84; Nie wykryto tablicy
+28.88; JJKBHIG
+28.92; Nie wykryto tablicy
+28.96; Nie wykryto tablicy
+29.0; CWELLX7
+29.04; PZN374C
+29.08; Nie wykryto tablicy
+29.12; JIIU0II
+29.16; Nie wykryto tablicy
+29.2; Nie wykryto tablicy
+29.24; Nie wykryto tablicy
+29.28; Nie wykryto tablicy
+29.32; Nie wykryto tablicy
+29.36; Nie wykryto tablicy
+29.4; Nie wykryto tablicy
+29.44; Nie wykryto tablicy
+29.48; Nie wykryto tablicy
+29.52; Nie wykryto tablicy
+29.56; Nie wykryto tablicy
+29.6; Nie wykryto tablicy
+29.64; Nie wykryto tablicy
+29.68; 7I8HIIG
+29.72; Nie wykryto tablicy
+29.76; J1UHMII
+29.8; Nie wykryto tablicy
+29.84; Nie wykryto tablicy
+29.88; C1IMHMI
+29.92; Nie wykryto tablicy
+29.96; Nie wykryto tablicy
+30.0; LKJ1F1I
+30.04; Nie wykryto tablicy
+30.08; Nie wykryto tablicy
+30.12; Nie wykryto tablicy
+30.16; Nie wykryto tablicy
+30.2; Nie wykryto tablicy
+30.24; Nie wykryto tablicy
+30.28; IFIYI7N
+30.32; Nie wykryto tablicy
+30.36; Nie wykryto tablicy
+30.4; Nie wykryto tablicy
+30.44; Nie wykryto tablicy
+30.48; Nie wykryto tablicy
+30.52; JJIHBBI
+30.56; Nie wykryto tablicy
+30.6; Nie wykryto tablicy
+30.64; Nie wykryto tablicy
+30.68; KL40886
+30.72; Nie wykryto tablicy
+30.76; Nie wykryto tablicy
+30.8; Nie wykryto tablicy
+30.84; Nie wykryto tablicy
+30.88; Nie wykryto tablicy
+30.92; Nie wykryto tablicy
+30.96; Nie wykryto tablicy
+31.0; Nie wykryto tablicy
+31.04; Nie wykryto tablicy
+31.08; Nie wykryto tablicy
+31.12; Nie wykryto tablicy
+31.16; Nie wykryto tablicy
+31.2; Nie wykryto tablicy
+31.24; Nie wykryto tablicy
+31.28; Nie wykryto tablicy
+31.32; CLPIXII
+31.36; 4JII4II
+31.4; Nie wykryto tablicy
+31.44; Nie wykryto tablicy
+31.48; JJIHBBI
+31.52; Nie wykryto tablicy
+31.56; Nie wykryto tablicy
+31.6; N4H2G73U
+31.64; Nie wykryto tablicy
+31.68; XFP41UL
+31.72; Nie wykryto tablicy
+31.76; Nie wykryto tablicy
+31.8; Nie wykryto tablicy
+31.84; Nie wykryto tablicy
+31.88; LUIGHII
+31.92; Nie wykryto tablicy
+31.96; Nie wykryto tablicy
+32.0; Nie wykryto tablicy
+32.04; Nie wykryto tablicy
+32.08; Nie wykryto tablicy
+32.12; Nie wykryto tablicy
+32.16; Nie wykryto tablicy
+32.2; Nie wykryto tablicy
+32.24; Nie wykryto tablicy
+32.28; Nie wykryto tablicy
+32.32; Nie wykryto tablicy
+32.36; Nie wykryto tablicy
+32.4; Nie wykryto tablicy
+32.44; Nie wykryto tablicy
+32.48; Nie wykryto tablicy
+32.52; Nie wykryto tablicy
+32.56; Nie wykryto tablicy
+32.6; Nie wykryto tablicy
+32.64; Nie wykryto tablicy
+32.68; Nie wykryto tablicy
+32.72; Nie wykryto tablicy
+32.76; Nie wykryto tablicy
+32.8; FA7RJUY
+32.84; Nie wykryto tablicy
+32.88; Nie wykryto tablicy
+32.92; Nie wykryto tablicy
+32.96; T17AL4L
+33.0; Nie wykryto tablicy
+33.04; Nie wykryto tablicy
+33.08; Nie wykryto tablicy
+33.12; Nie wykryto tablicy
+33.16; Nie wykryto tablicy
+33.2; Nie wykryto tablicy
+33.24; Nie wykryto tablicy
+33.28; Nie wykryto tablicy
+33.32; Nie wykryto tablicy
+33.36; Nie wykryto tablicy
+33.4; Nie wykryto tablicy
+33.44; Nie wykryto tablicy
+33.48; TUJKBBI
+33.52; Nie wykryto tablicy
+33.56; Nie wykryto tablicy
+33.6; Nie wykryto tablicy
+33.64; UJJK0BU
+33.68; KL40886
+33.72; 7JKDHBG
+33.76; Nie wykryto tablicy
+33.8; X71IIXF
+33.84; Nie wykryto tablicy
+33.88; Nie wykryto tablicy
+33.92; Nie wykryto tablicy
+33.96; Nie wykryto tablicy
+34.0; Nie wykryto tablicy
+34.04; Nie wykryto tablicy
+34.08; Nie wykryto tablicy
+34.12; Nie wykryto tablicy
+34.16; Nie wykryto tablicy
+34.2; JJIHBBI
+34.24; Nie wykryto tablicy
+34.28; Nie wykryto tablicy
+34.32; Nie wykryto tablicy
+34.36; Nie wykryto tablicy
+34.4; Nie wykryto tablicy
+34.44; Nie wykryto tablicy
+34.48; Nie wykryto tablicy
+34.52; Nie wykryto tablicy
+34.56; Nie wykryto tablicy
+34.6; KL4O889
+34.64; Nie wykryto tablicy
+34.68; Nie wykryto tablicy
+34.72; JIHBIII
+34.76; Nie wykryto tablicy
+34.8; Nie wykryto tablicy
+34.84; KL40882
+34.88; Nie wykryto tablicy
+34.92; Nie wykryto tablicy
+34.96; KL40886
+35.0; Nie wykryto tablicy
+35.04; Nie wykryto tablicy
+35.08; Nie wykryto tablicy
+35.12; LKL4088
+35.16; Nie wykryto tablicy
+35.2; Nie wykryto tablicy
+35.24; Nie wykryto tablicy
+35.28; Nie wykryto tablicy
+35.32; Nie wykryto tablicy
+35.36; Nie wykryto tablicy
+35.4; WIYALK1
+35.44; Nie wykryto tablicy
+35.48; Nie wykryto tablicy
+35.52; Nie wykryto tablicy
+35.56; Nie wykryto tablicy
+35.6; Nie wykryto tablicy
+35.64; Nie wykryto tablicy
+35.68; KL4088J
+35.72; II7IILI
+35.76; Nie wykryto tablicy
+35.8; Nie wykryto tablicy
+35.84; Nie wykryto tablicy
+35.88; Nie wykryto tablicy
+35.92; Nie wykryto tablicy
+35.96; Nie wykryto tablicy
+36.0; Nie wykryto tablicy
+36.04; KL40886
+0.04; Nie wykryto tablicy
+0.08; Nie wykryto tablicy
+0.12; Nie wykryto tablicy
+0.16; Nie wykryto tablicy
+0.2; Nie wykryto tablicy
+0.24; Nie wykryto tablicy
+0.28; Nie wykryto tablicy
+0.32; Nie wykryto tablicy
+0.36; IIIII11
+0.4; Nie wykryto tablicy
+0.44; IIIIII1
+0.48; Nie wykryto tablicy
+0.52; Nie wykryto tablicy
+0.56; Nie wykryto tablicy
+0.6; Nie wykryto tablicy
+0.64; Nie wykryto tablicy
+0.68; Nie wykryto tablicy
+0.72; Nie wykryto tablicy
+0.76; Nie wykryto tablicy
+0.8; Nie wykryto tablicy
+0.84; Nie wykryto tablicy
+0.88; Nie wykryto tablicy
+0.92; Nie wykryto tablicy
+0.96; Nie wykryto tablicy
+1.0; Nie wykryto tablicy
+1.04; Nie wykryto tablicy
+1.08; Nie wykryto tablicy
+1.12; Nie wykryto tablicy
+1.16; Nie wykryto tablicy
+1.2; Nie wykryto tablicy
+1.24; Nie wykryto tablicy
+1.28; Nie wykryto tablicy
+1.32; Nie wykryto tablicy
+1.36; Nie wykryto tablicy
+1.4; Nie wykryto tablicy
+1.44; Nie wykryto tablicy
+1.48; I111I111
+1.52; I1I1IIII1
+1.56; Nie wykryto tablicy
+1.6; Nie wykryto tablicy
+1.64; Nie wykryto tablicy
+1.68; Nie wykryto tablicy
+1.72; Nie wykryto tablicy
+1.76; Nie wykryto tablicy
+1.8; Nie wykryto tablicy
+1.84; Nie wykryto tablicy
+1.88; Nie wykryto tablicy
+1.92; Nie wykryto tablicy
+1.96; Nie wykryto tablicy
+2.0; Nie wykryto tablicy
+2.04; Nie wykryto tablicy
+2.08; Nie wykryto tablicy
+2.12; Nie wykryto tablicy
+2.16; Nie wykryto tablicy
+2.2; Nie wykryto tablicy
+2.24; Nie wykryto tablicy
+2.28; Nie wykryto tablicy
+2.32; Nie wykryto tablicy
+2.36; Nie wykryto tablicy
+2.4; Nie wykryto tablicy
+2.44; Nie wykryto tablicy
+2.48; Nie wykryto tablicy
+2.52; Nie wykryto tablicy
+2.56; Nie wykryto tablicy
+2.6; Nie wykryto tablicy
+2.64; Nie wykryto tablicy
+2.68; Nie wykryto tablicy
+2.72; Nie wykryto tablicy
+2.76; Nie wykryto tablicy
+2.8; Nie wykryto tablicy
+2.84; Nie wykryto tablicy
+2.88; Nie wykryto tablicy
+2.92; Nie wykryto tablicy
+2.96; Nie wykryto tablicy
+3.0; Nie wykryto tablicy
+3.04; Nie wykryto tablicy
+3.08; Nie wykryto tablicy
+3.12; Nie wykryto tablicy
+3.16; Nie wykryto tablicy
+3.2; Nie wykryto tablicy
+3.24; Nie wykryto tablicy
+3.28; Nie wykryto tablicy
+3.32; Nie wykryto tablicy
+3.36; Nie wykryto tablicy
+3.4; Nie wykryto tablicy
+3.44; Nie wykryto tablicy
+3.48; Nie wykryto tablicy
+3.52; Nie wykryto tablicy
+3.56; Nie wykryto tablicy
+3.6; Nie wykryto tablicy
+3.64; Nie wykryto tablicy
+3.68; Nie wykryto tablicy
+3.72; Nie wykryto tablicy
+3.76; Nie wykryto tablicy
+3.8; Nie wykryto tablicy
+3.84; Nie wykryto tablicy
+3.88; Nie wykryto tablicy
+3.92; Nie wykryto tablicy
+3.96; Nie wykryto tablicy
+4.0; Nie wykryto tablicy
+4.04; Nie wykryto tablicy
+4.08; Nie wykryto tablicy
+4.12; Nie wykryto tablicy
+4.16; Nie wykryto tablicy
+4.2; Nie wykryto tablicy
+4.24; B³¹d rozpoznawania znaków na tablicy
+4.28; Nie wykryto tablicy
+4.32; Nie wykryto tablicy
+4.36; Nie wykryto tablicy
+4.4; Nie wykryto tablicy
+4.44; Nie wykryto tablicy
+4.48; Nie wykryto tablicy
+4.52; Nie wykryto tablicy
+4.56; Nie wykryto tablicy
+4.6; Nie wykryto tablicy
+4.64; Nie wykryto tablicy
+4.68; Nie wykryto tablicy
+4.72; Nie wykryto tablicy
+4.76; Nie wykryto tablicy
+4.8; Nie wykryto tablicy
+4.84; B³¹d rozpoznawania znaków na tablicy
+4.88; Nie wykryto tablicy
+4.92; Nie wykryto tablicy
+4.96; Nie wykryto tablicy
+5.0; Nie wykryto tablicy
+5.04; Nie wykryto tablicy
+5.08; Nie wykryto tablicy
+5.12; B³¹d rozpoznawania znaków na tablicy
+5.16; Nie wykryto tablicy
+5.2; Nie wykryto tablicy
+5.24; Nie wykryto tablicy
+5.28; Nie wykryto tablicy
+5.32; Nie wykryto tablicy
+5.36; B³¹d rozpoznawania znaków na tablicy
+5.4; Nie wykryto tablicy
+5.44; Nie wykryto tablicy
+5.48; B³¹d rozpoznawania znaków na tablicy
+5.52; Nie wykryto tablicy
+5.56; Nie wykryto tablicy
+5.6; Nie wykryto tablicy
+5.64; Nie wykryto tablicy
+5.68; Nie wykryto tablicy
+5.72; B³¹d rozpoznawania znaków na tablicy
+5.76; Nie wykryto tablicy
+5.8; B³¹d rozpoznawania znaków na tablicy
+5.84; Nie wykryto tablicy
+5.88; Nie wykryto tablicy
+5.92; Nie wykryto tablicy
+0.04; Nie wykryto tablicy
+0.08; Nie wykryto tablicy
+0.12; XRA330H
+0.16; V7LY47XX
+0.2; ZX7YY7Z74
+0.24; KRA330B
+0.28; KRA330H
+0.32; Nie wykryto tablicy
+0.36; KRA330H
+0.4; KRA330H
+0.44; KRA330H
+0.48; KRA330H
+0.52; 77B7777J
+0.56; Nie wykryto tablicy
+0.6; Nie wykryto tablicy
+0.64; KRAJ30H
+0.68; KPA330H
+0.72; Nie wykryto tablicy
+0.76; KRA1330H
+0.8; KRA1330H
+0.84; KPA1330H
+0.88; Nie wykryto tablicy
+0.92; Nie wykryto tablicy
+0.96; KPA330H
+1.0; KPAJJOH
+1.04; KPA3J0H
+1.08; Nie wykryto tablicy
+1.12; KR1S192
+1.16; Nie wykryto tablicy
+1.2; Nie wykryto tablicy
+1.24; Nie wykryto tablicy
+1.28; Nie wykryto tablicy
+1.32; Nie wykryto tablicy
+1.36; Nie wykryto tablicy
+1.4; Nie wykryto tablicy
+1.44; Nie wykryto tablicy
+1.48; Nie wykryto tablicy
+1.52; Nie wykryto tablicy
+1.56; Nie wykryto tablicy
+1.6; 7VXA7XN
+1.64; Nie wykryto tablicy
+1.68; Nie wykryto tablicy
+1.72; Nie wykryto tablicy
+1.76; Nie wykryto tablicy
+1.8; Nie wykryto tablicy
+1.84; Nie wykryto tablicy
+1.88; Nie wykryto tablicy
+1.92; Nie wykryto tablicy
+1.96; Nie wykryto tablicy
+2.0; XX7V77NL
+2.04; Nie wykryto tablicy
+2.08; Nie wykryto tablicy
+2.12; Nie wykryto tablicy
+2.16; Nie wykryto tablicy
+2.2; Nie wykryto tablicy
+2.24; Nie wykryto tablicy
+2.28; Nie wykryto tablicy
+2.32; Nie wykryto tablicy
+2.36; Nie wykryto tablicy
+2.4; Nie wykryto tablicy
+2.44; X2V7LAX
+2.48; Nie wykryto tablicy
+2.52; Nie wykryto tablicy
+2.56; Nie wykryto tablicy
+2.6; Nie wykryto tablicy
+2.64; Nie wykryto tablicy
+2.68; Nie wykryto tablicy
+2.72; Nie wykryto tablicy
+2.76; Nie wykryto tablicy
+2.8; Nie wykryto tablicy
+2.84; Nie wykryto tablicy
+2.88; Nie wykryto tablicy
+2.92; Nie wykryto tablicy
+2.96; Nie wykryto tablicy
+3.0; Nie wykryto tablicy
+3.04; Nie wykryto tablicy
+3.08; Nie wykryto tablicy
+3.12; Nie wykryto tablicy
+3.16; Nie wykryto tablicy
+3.2; Nie wykryto tablicy
+3.24; Nie wykryto tablicy
+3.28; Nie wykryto tablicy
+3.32; Nie wykryto tablicy
+3.36; Nie wykryto tablicy
+3.4; Nie wykryto tablicy
+3.44; Nie wykryto tablicy
+3.48; Nie wykryto tablicy
+3.52; Nie wykryto tablicy
+3.56; Nie wykryto tablicy
+3.6; Nie wykryto tablicy
+3.64; KP7HP03
+3.68; KR2HR0J
+3.72; Nie wykryto tablicy
+3.76; KR7HR82
+3.8; Nie wykryto tablicy
+3.84; KP7PP03
+3.88; KR7HP0J
+3.92; KP7HP0J
+3.96; XP7HR03
+4.0; KP7HP03
+4.04; Nie wykryto tablicy
+4.08; KP7HP03
+4.12; KR7HP03
+4.16; Nie wykryto tablicy
+4.2; KP7HR03
+4.24; KP7HP03
+4.28; Nie wykryto tablicy
+4.32; KR7HP03
+4.36; Nie wykryto tablicy
+4.4; KP7HP0J
+4.44; XP7HP03
+4.48; KR7BR0J
+4.52; KR7HP0J
+4.56; KP7HH0J
+4.6; XP7HPDJ
+4.64; KP2HROJ
+4.68; XP7HP0J
+4.72; Nie wykryto tablicy
+4.76; T77TXJN
+4.8; Nie wykryto tablicy
+4.84; KP7HROJ
+4.88; KP7HPJJ
+4.92; Nie wykryto tablicy
+4.96; KP7HPJJ
+5.0; Nie wykryto tablicy
+5.04; Nie wykryto tablicy
+5.08; Nie wykryto tablicy
+5.12; Nie wykryto tablicy
+5.16; Nie wykryto tablicy
+5.2; Nie wykryto tablicy
+5.24; Nie wykryto tablicy
+5.28; Nie wykryto tablicy
+5.32; Nie wykryto tablicy
+5.36; Nie wykryto tablicy
+5.4; Nie wykryto tablicy
+5.44; Nie wykryto tablicy
+5.48; Nie wykryto tablicy
+5.52; Nie wykryto tablicy
+5.56; Nie wykryto tablicy
+5.6; Nie wykryto tablicy
+5.64; XX777JX
+5.68; Nie wykryto tablicy
+5.72; Nie wykryto tablicy
+5.76; Nie wykryto tablicy
+5.8; Nie wykryto tablicy
+5.84; X7J7X77
+5.88; Nie wykryto tablicy
+5.92; Nie wykryto tablicy
+5.96; Nie wykryto tablicy
+6.0; Nie wykryto tablicy
+6.04; Nie wykryto tablicy
+6.08; Nie wykryto tablicy
+6.12; Nie wykryto tablicy
+6.16; Nie wykryto tablicy
+6.2; Nie wykryto tablicy
+6.24; Nie wykryto tablicy
+6.28; Nie wykryto tablicy
+6.32; Nie wykryto tablicy
+6.36; Nie wykryto tablicy
+6.4; ZJ7I77U
+6.44; Nie wykryto tablicy
+6.48; Nie wykryto tablicy
+6.52; Nie wykryto tablicy
+6.56; Nie wykryto tablicy
+6.6; Nie wykryto tablicy
+6.64; Nie wykryto tablicy
+6.68; Nie wykryto tablicy
+6.72; Nie wykryto tablicy
+6.76; Nie wykryto tablicy
+6.8; Nie wykryto tablicy
+6.84; Nie wykryto tablicy
+6.88; Nie wykryto tablicy
+0.04; Nie wykryto tablicy
+0.08; Nie wykryto tablicy
+0.12; XRA330H
+0.16; KRA330H
+0.04; XVA7J5Y7
+0.08; Nie wykryto tablicy
+0.04; Nie wykryto tablicy
+0.08; Nie wykryto tablicy
+0.12; XRA330H
+0.16; KRA330H
+0.2; ZX7YY7Z74
+0.24; KRA330B
+0.28; KRA330H
+0.32; Nie wykryto tablicy
+0.36; KRA330H
+0.4; KRA330H
+0.44; KRA330H
+0.48; KRA330H
+0.04; Nie wykryto tablicy
+0.08; Nie wykryto tablicy
+0.12; XRA330H
+0.16; KRA330H
+0.04; Nie wykryto tablicy
+0.08; Nie wykryto tablicy
+0.12; XRA330H
+0.16; KRA330H
+0.2; ZX7YY7Z74
+0.24; KRA330B
+0.28; KRA330H
+0.32; Nie wykryto tablicy
+0.36; KRA330H
+0.4; KRA330H
+0.44; KRA330H
+0.48; KRA330H
+0.52; KRA330H
+0.56; Nie wykryto tablicy
+0.6; Nie wykryto tablicy
+0.64; KRAJ30H
+0.68; KPA330H
+0.72; Nie wykryto tablicy
+0.76; KRA1330H
+0.8; KRA1330H
+0.84; KPA1330H
+0.88; Nie wykryto tablicy
+0.92; Nie wykryto tablicy
+0.96; KPA330H
+1.0; KPAJJOH
+1.04; KPA3J0H
+1.08; Nie wykryto tablicy
+1.12; KR1S192
+1.16; Nie wykryto tablicy
+1.2; Nie wykryto tablicy
+1.24; Nie wykryto tablicy
+1.28; Nie wykryto tablicy
+1.32; Nie wykryto tablicy
+1.36; Nie wykryto tablicy
+1.4; Nie wykryto tablicy
+1.44; Nie wykryto tablicy
+1.48; Nie wykryto tablicy
+1.52; Nie wykryto tablicy
+1.56; Nie wykryto tablicy
+1.6; Nie wykryto tablicy
+1.64; Nie wykryto tablicy
+1.68; Nie wykryto tablicy
+1.72; Nie wykryto tablicy
+1.76; Nie wykryto tablicy
+1.8; Nie wykryto tablicy
+1.84; Nie wykryto tablicy
+0.04; Nie wykryto tablicy
+0.08; Nie wykryto tablicy
+0.12; XRA330H
+0.16; KRA330H
+0.2; ZX7YY7Z74
+0.24; KRA330B
+0.28; KRA330H
+0.32; Nie wykryto tablicy
+0.36; KRA330H
+0.4; KRA330H
+0.44; KRA330H
+0.48; KRA330H
+0.52; KRA330H
+0.56; Nie wykryto tablicy
+0.6; Nie wykryto tablicy
+0.64; KRAJ30H
+0.68; KPA330H
+0.72; Nie wykryto tablicy
+0.76; KRA1330H
+0.8; KRA1330H
+0.84; KPA1330H
+0.88; Nie wykryto tablicy
+0.92; Nie wykryto tablicy
+0.96; KPA330H
+1.0; KPAJJOH
+1.04; KPA3J0H
+1.08; Nie wykryto tablicy
+1.12; KR1S192
+1.16; Nie wykryto tablicy
+1.2; Nie wykryto tablicy
+1.24; Nie wykryto tablicy
+1.28; Nie wykryto tablicy
+1.32; Nie wykryto tablicy
+1.36; Nie wykryto tablicy
+1.4; Nie wykryto tablicy
+1.44; Nie wykryto tablicy
+1.48; Nie wykryto tablicy
+1.52; Nie wykryto tablicy
+1.56; Nie wykryto tablicy
+1.6; Nie wykryto tablicy
+1.64; Nie wykryto tablicy
+1.68; Nie wykryto tablicy
+1.72; Nie wykryto tablicy
+1.76; Nie wykryto tablicy
+1.8; Nie wykryto tablicy
+1.84; Nie wykryto tablicy
+1.88; Nie wykryto tablicy
+1.92; Nie wykryto tablicy
+1.96; Nie wykryto tablicy
+2.0; Nie wykryto tablicy
+2.04; Nie wykryto tablicy
+2.08; Nie wykryto tablicy
+2.12; Nie wykryto tablicy
+2.16; Nie wykryto tablicy
+2.2; Nie wykryto tablicy
+2.24; Nie wykryto tablicy
+2.28; Nie wykryto tablicy
+2.32; Nie wykryto tablicy
+2.36; Nie wykryto tablicy
+2.4; Nie wykryto tablicy
+2.44; Nie wykryto tablicy
+2.48; Nie wykryto tablicy
+2.52; Nie wykryto tablicy
+2.56; Nie wykryto tablicy
+2.6; Nie wykryto tablicy
+2.64; Nie wykryto tablicy
+2.68; Nie wykryto tablicy
+2.72; Nie wykryto tablicy
+2.76; Nie wykryto tablicy
+2.8; Nie wykryto tablicy
+2.84; Nie wykryto tablicy
+2.88; Nie wykryto tablicy
+2.92; Nie wykryto tablicy
+2.96; Nie wykryto tablicy
+3.0; Nie wykryto tablicy
+3.04; Nie wykryto tablicy
+3.08; Nie wykryto tablicy
+3.12; Nie wykryto tablicy
+3.16; Nie wykryto tablicy
+3.2; Nie wykryto tablicy
+3.24; Nie wykryto tablicy
+3.28; Nie wykryto tablicy
+3.32; Nie wykryto tablicy
+3.36; Nie wykryto tablicy
+3.4; Nie wykryto tablicy
+3.44; Nie wykryto tablicy
+3.48; Nie wykryto tablicy
+3.52; Nie wykryto tablicy
+3.56; Nie wykryto tablicy
+3.6; Nie wykryto tablicy
+3.64; KP7HP03
+3.68; KR2HR0J
+3.72; Nie wykryto tablicy
+3.76; KR7HR82
+3.8; Nie wykryto tablicy
+3.84; KP7PP03
+3.88; KR7HP0J
+3.92; KP7HP0J
+3.96; XP7HR03
+4.0; KP7HP03
+4.04; Nie wykryto tablicy
+4.08; KP7HP03
+4.12; KR7HP03
+4.16; Nie wykryto tablicy
+4.2; KP7HR03
+4.24; KP7HP03
+4.28; Nie wykryto tablicy
+4.32; KR7HP03
+4.36; Nie wykryto tablicy
+4.4; KP7HP0J
+4.44; XP7HP03
+4.48; KR7BR0J
+4.52; KR7HP0J
+4.56; KP7HH0J
+4.6; XP7HPDJ
+4.64; KP2HROJ
+4.68; XP7HP0J
+4.72; Nie wykryto tablicy
+4.76; Nie wykryto tablicy
+4.8; Nie wykryto tablicy
+4.84; KP7HROJ
+4.88; KP7HPJJ
+4.92; Nie wykryto tablicy
+4.96; KP7HPJJ
+5.0; Nie wykryto tablicy
+5.04; Nie wykryto tablicy
+5.08; Nie wykryto tablicy
+5.12; Nie wykryto tablicy
+5.16; Nie wykryto tablicy
+5.2; Nie wykryto tablicy
+5.24; Nie wykryto tablicy
+5.28; Nie wykryto tablicy
+5.32; Nie wykryto tablicy
+5.36; Nie wykryto tablicy
+5.4; Nie wykryto tablicy
+5.44; Nie wykryto tablicy
+5.48; Nie wykryto tablicy
+5.52; Nie wykryto tablicy
+5.56; Nie wykryto tablicy
+5.6; Nie wykryto tablicy
+5.64; Nie wykryto tablicy
+5.68; Nie wykryto tablicy
+5.72; Nie wykryto tablicy
+5.76; Nie wykryto tablicy
+5.8; Nie wykryto tablicy
+5.84; X7J7X77
+5.88; Nie wykryto tablicy
+5.92; Nie wykryto tablicy
+5.96; Nie wykryto tablicy
+6.0; Nie wykryto tablicy
+6.04; Nie wykryto tablicy
+6.08; Nie wykryto tablicy
+6.12; Nie wykryto tablicy
+6.16; Nie wykryto tablicy
+6.2; Nie wykryto tablicy
+6.24; Nie wykryto tablicy
+6.28; Nie wykryto tablicy
+6.32; Nie wykryto tablicy
+6.36; Nie wykryto tablicy
+6.4; ZJ7I77U
+6.44; Nie wykryto tablicy
+6.48; Nie wykryto tablicy
+6.52; Nie wykryto tablicy
+6.56; Nie wykryto tablicy
+6.6; Nie wykryto tablicy
+6.64; Nie wykryto tablicy
+6.68; Nie wykryto tablicy
+6.72; Nie wykryto tablicy
+6.76; Nie wykryto tablicy
+6.8; Nie wykryto tablicy
+6.84; Nie wykryto tablicy
+6.88; Nie wykryto tablicy
+0.04; XYAXK
+0.08; KRA33D
+0.12; XRA330H
+0.16; KRA330H
+0.2; ZX7YY7Z74
+0.24; KRA330B
+0.28; KRA330H
+0.32; L7AV
+0.36; KRA330H
+0.4; KRA330H
+0.44; KRA330H
+0.48; KRA330H
+0.52; KRA330H
+0.56; DLTI
+0.6; Z7Z7
+0.64; KRAJ30H
+0.68; KPA330H
+0.72; KPIS92
+0.76; KRA1330H
+0.8; KRA1330H
+0.84; KPA1330H
+0.88; CYLY
+0.92; XPS92
+0.96; KPA330H
+1.0; KPAJJOH
+1.04; KPA3J0H
+1.08; KRA
+1.12; KR1S192
+1.16; XY7Z
+1.2; Z77XKL
+1.24; LTAL
+1.28; TLTT
+1.32; KYKZX
+1.36; TYNY
+1.4; LJN
+1.44; ZZ1YY
+1.48; KIY1
+1.52; TATX
+1.56; X777
+1.6; W4LXA
+1.64; TA74
+1.68; XZYL1
+1.72; OXX77
+1.76; T4NY
+1.8; X777AY
+1.84; FF4
+1.88; X7Z
+1.92; TI77
+1.96; 27YT
+2.0; X777L
+2.04; XYF
+2.08; X74
+2.12; T7YA7
+2.16; XHA27A
+2.2; LJ7YY
+2.24; X7N7
+2.28; KXX7
+2.32; WXXJ
+2.36; T7ZVXTA
+2.4; TVJZ2
+2.44; TWUXY
+2.48; P7XAX
+2.52; DZFZ
+2.56; 2H7A
+2.6; ZXZZYA
+2.64; KCAL4
+2.68; T77
+2.72; 07Z7X
+2.76; XZA
+2.8; F4IA
+2.84; ZVI77
+2.88; XYTK
+2.92; 0X7UA
+2.96; Z7Y1
+3.0; PIU
+3.04; XY7A
+3.08; T7AY
+3.12; TLQT
+3.16; LAO7
+3.2; ZXYA
+3.24; KQF0Y
+3.28; Z7XA
+3.32; LXZ11
+3.36; XIB
+3.4; XY1
+3.44; CH2D
+3.48; 2X7AVC
+3.52; XQI4
+3.56; K7P03
+3.6; KRL0
+3.64; KP7HP03
+3.68; KR2HR0J
+3.72; KP7P20
+3.76; KR7HR82
+3.8; KHPD3
+3.84; KP7PP03
+3.88; KR7HP0J
+3.92; KP7HP0J
+3.96; XP7HR03
+4.0; KP7HP03
+4.04; P7HP03
+4.08; KP7HP03
+4.12; KR7HP03
+4.16; R7HRDJ
+4.2; KP7HR03
+4.24; KP7HP03
+4.28; ZY77AX
+4.32; KR7HP03
+4.36; CQU
+4.4; KP7HP0J
+4.44; XP7HP03
+4.48; KR7BR0J
+4.52; KR7HP0J
+4.56; KP7HH0J
+4.6; XP7HPDJ
+4.64; KP2HROJ
+4.68; XP7HP0J
+4.72; X7T4
+4.76; LXYA
+4.8; XZ7AX
+4.84; KP7HROJ
+4.88; KP7HPJJ
+4.92; P7HPJJ
+4.96; KP7HPJJ
+5.0; T7JA
+5.04; XUIACQ
+5.08; KF7HP6
+5.12; SXQD
+5.16; LAZV
+5.2; TAK77
+5.24; ZAWA
+5.28; TVYT
+5.32; TALY
+5.36; XAQ
+5.4; XZYA
+5.44; TZA
+5.48; ZZY74
+5.52; CXY7T
+5.56; WVN4
+5.6; ZT7
+5.64; RXVJ
+5.68; ZZL7
+5.72; CZY4
+5.76; 2777
+5.8; OQXT
+5.84; X7J7X77
+5.88; TYYT
+5.92; XLQ7Y
+5.96; KF7XA
+6.0; X7ZA7A
+6.04; TVXLA7
+6.08; K777
+6.12; TU4Y7UT
+6.16; ZY777
+6.2; 2YA7
+6.24; ZUJ7
+6.28; ZTA7T
+6.32; ETPX
+6.36; XI7Y
+6.4; ZJ7I77U
+6.44; ZIIY
+6.48; NIII
+6.52; KP44
+6.56; KP45S
+6.6; KR1J5
+6.64; R1JS
+6.68; KR1JS
+6.72; F2Z77
+6.76; T7AZ
+6.8; K8A5A1X
+6.84; R9HS
+6.88; R9HIS
+0.04; XYAXK
+0.08; KRA33D
+0.12; XRA330H
+0.16; KRA330H
+0.2; ZX7YY7Z74
+0.24; KRA330B
+0.28; KRA330H
+0.32; TLV1Y
+0.36; KRA330H
+0.4; KRA330H
+0.44; KRA330H
+0.48; KRA330H
+0.52; KRA330H
+0.56; Z7Z2
+0.6; Z7Z7
+0.64; KRAJ30H
+0.68; KPA330H
+0.72; KPIS92
+0.76; KRA1330H
+0.8; KRA1330H
+0.84; KPA1330H
+0.88; CYLY
+0.92; KR91I2
+0.96; KPA330H
+1.0; KPAJJOH
+1.04; KPA3J0H
+1.08; TL74
+1.12; KR1S192
+1.16; XY7Z
+1.2; Z77XKL
+1.24; 2XAZ
+1.28; TLTT
+1.32; KYKZX
+1.36; TYNZ
+1.4; TXXT
+1.44; ZZ1YY
+1.48; LV7X
+1.52; T47J
+1.56; X777
+1.6; LV2Y
+1.64; 0IXV
+1.68; XZY1
+1.72; OX77
+1.76; ZKF
+1.8; X777AY
+1.84; RJ6
+1.88; TJAV
+1.92; TI77
+1.96; LAT
+2.0; TTVX
+2.04; XYF
+2.08; X74
+2.12; T7YA7
+2.16; XHA27A
+2.2; LJ7YY
+2.24; XALY
+2.28; KXX7
+2.32; K74
+2.36; XQXY
+2.4; ZXLR
+2.44; TWUXY
+2.48; ZY7X
+2.52; DZFZ
+2.56; TTYX7
+2.6; ZXZZYA
+2.64; TIWLV
+2.68; T77X
+2.72; 07Z7X
+2.76; Z7X
+2.8; F4IA
+2.84; ZVI77
+2.88; Z7L
+2.92; T4Y7
+2.96; Z7Y1
+3.0; PIU
+3.04; XXYA
+3.08; T7AY
+3.12; TQUL
+3.16; LAO7
+3.2; XJ7
+3.24; KQF0Y
+3.28; FD45
+3.32; LZ4ZA
+3.36; WXXY
+3.4; ZXVC
+3.44; TZX4A
+3.48; 074Y
+3.52; LAYY
+3.56; K7P03
+3.6; LJLJ
+3.64; KP7HP03
+3.68; KR2HR0J
+3.72; KP7P20
+3.76; KR7HR82
+3.8; KHPD3
+3.84; KP7PP03
+3.88; KR7HP0J
+3.92; KP7HP0J
+3.96; XP7HR03
+4.0; KP7HP03
+4.04; P7HP03
+4.08; KP7HP03
+4.12; KR7HP03
+4.16; R7HRDJ
+4.2; KP7HR03
+4.24; KP7HP03
+4.28; L77AXT
+4.32; KR7HP03
+4.36; DOLY
+4.4; KP7HP0J
+4.44; XP7HP03
+4.48; KR7BR0J
+4.52; KR7HP0J
+4.56; KP7HH0J
+4.6; XP7HPDJ
+4.64; KP2HROJ
+4.68; XP7HP0J
+4.72; XYJNN
+4.76; ZVPXY
+4.8; X774A
+4.84; KP7HROJ
+4.88; KP7HPJJ
+4.92; P7HPJJ
+4.96; KP7HPJJ
+5.0; L7ZV
+5.04; L1J9
+5.08; KF7HP6
+5.12; TV4A
+5.16; CTJNN
+5.2; TAK77
+5.24; PJJL
+5.28; TLA
+5.32; TALY
+5.36; TUQJ
+5.4; WLQJ
+5.44; LAXYU
+5.48; TL74YY
+5.52; CSY7T
+5.56; 07Z7A
+5.6; ZYZ7A7A
+5.64; L97T
+5.68; Z7L7
+5.72; CZY4
+5.76; KQB7A
+5.8; LCXYJ
+5.84; X7J7X77
+5.88; XPVL
+5.92; Z77YX
+5.96; ZCK7YY
+6.0; 2J77
+6.04; TVXLA7
+6.08; K777
+6.12; LLNYY
+6.16; LK7U
+6.2; 2YA7
+6.24; RGAC
+6.28; KR45
+6.32; ETPX
+6.36; LAAJ
+6.4; ZJ7I77U
+6.44; ZIIY
+6.48; XYYYY
+6.52; KP44
+6.56; KP45S
+6.6; KR1J5
+6.64; R1JS
+6.68; KR1JS
+6.72; F2Z77
+6.76; T7AZ
+6.8; KRPNAS
+6.84; ZZXL
+6.88; R9HIS
+0.04; TJJ
+0.08; CIU
+0.12; GJ7J7
+0.04; TJJ
+0.08; CIU
+0.12; GJ7J7
+0.16; GJ7J7
+0.2; GJ7J7
+0.24; GJ7J7
+0.28; TTJ
+0.32; TTJ
+0.36; TTJ
+0.4; TTJ
+0.44; N11
+0.48; N11
+0.52; XJKN
+0.56; XJKN
+0.6; TI4
+0.64; TI4
+0.68; LVIX
+0.72; LVIX
+0.76; LVIX
+0.8; LVIX
+0.84; LVIX
+0.88; LVIX
+0.92; LVIX
+0.96; LVIX
+1.0; LVIX
+1.04; TJJ
+1.08; GTJ
+1.12; KHN
+1.16; T44
+1.2; TJ7
+1.24; TJ7
+1.28; TJ7
+1.32; TJ7
+1.36; TJJ
+1.4; TJJ
+1.44; TJJ
+1.48; XA5A
+1.52; XA5A
+1.56; CJGJ
+1.6; XW27
+1.64; XW27
+1.68; XW27
+1.72; XW27
+1.76; XW27
+1.8; XW27
+1.84; NIII
+1.88; CIII
+1.92; CIII
+1.96; T7J
+2.0; TJA
+2.04; 2L9
+2.08; 2KQ
+2.12; CKQC
+2.16; TJ7
+2.2; TJ7
+2.24; TJ7
+2.28; TJJ7
+2.32; F1II1
+2.36; 2Z4A
+2.4; T77J7
+2.44; 0TJ
+2.48; TJ7
+2.52; FI7
+2.56; 223
+2.6; TJJ
+2.64; TJJ
+2.68; TJJ
+2.72; SLV
+2.76; SLV
+2.8; R3J
+2.84; XTT
+2.88; XTT
+2.92; K7T
+2.96; K4L
+3.0; K4L
+3.04; PI11
+3.08; TJT
+3.12; TJT
+3.16; KII
+3.2; ZJ7
+3.24; SVI
+3.28; TTT
+3.32; TTT
+3.36; TTT
+3.4; 27T
+3.44; 27T
+3.48; 27T
+3.52; X72
+3.56; X72
+3.6; X72
+3.64; T7T
+3.68; T7T
+3.72; FJ7
+3.76; FJ7
+3.8; FJ7
+3.84; LIJ
+3.88; 2Z3
+3.92; 2TT
+3.96; 2TT
+4.0; 2TT
+4.04; 2TT
+4.08; T7TT
+4.12; T7TT
+4.16; T7TT
+4.2; T7TT
+4.24; T7TT
+4.28; 2T3
+4.32; 2T3
+4.36; 2T3
+4.4; 2T3
+4.44; TJJJ
+4.48; T37
+4.52; TTT
+4.56; 277
+4.6; D7I
+4.64; D7I
+4.68; D7I
+4.72; D7I
+4.76; D7I
+4.8; TI11
+4.84; TI11
+4.88; FLJ
+4.92; FLJ
+4.96; T7T
+5.0; 23J
+5.04; TT
+5.08; TT
+5.12; TT
+5.16; TT
+5.2; W1I
+5.24; W1I
+5.28; W1I
+5.32; TT7
+5.36; TT7
+5.4; TT7
+5.44; TT7
+5.48; TT7
+5.52; Nie wykryto tablicy
+5.56; TT7
+5.6; T7T
+5.64; T7T
+5.68; T7T
+5.72; T7T
+5.76; Nie wykryto tablicy
+5.8; T7T
+5.84; Nie wykryto tablicy
+5.88; T7T
+5.92; T7T
+5.96; TTI
+6.0; TTI
+6.04; TTI
+6.08; TTI
+6.12; LII
+6.16; LII
+6.2; Nie wykryto tablicy
+6.24; LII
+6.28; TTT
+6.32; TTT
+6.36; X77
+6.4; X77
+6.44; X77
+6.48; TTT
+6.52; NRUJ
+6.56; FII
+6.6; FII
+6.64; Nie wykryto tablicy
+6.68; FII
+6.72; L77
+6.76; L77
+6.8; 2LI1
+6.84; XXX
+6.88; CNJ
+6.92; CNJ
+6.96; Nie wykryto tablicy
+7.0; CNJ
+7.04; CNJ
+7.08; CNJ
+7.12; CNJ
+7.16; CNJ
+7.2; L1I
+7.24; L1I
+7.28; L1I
+7.32; L1I
+7.36; Nie wykryto tablicy
+7.4; L1I
+7.44; L1I
+7.48; L1I
+7.52; L1I
+7.56; L1I
+7.6; Nie wykryto tablicy
+7.64; Nie wykryto tablicy
+7.68; TTT
+7.72; TTT
+7.76; TTT
+7.8; TTT
+7.84; DP1T
+7.88; Nie wykryto tablicy
+7.92; DP1T
+7.96; DP1T
+8.0; FL
+8.04; FL
+8.08; KI14
+8.12; DHI
+8.16; DHI
+8.2; DHI
+8.24; XVM
+8.28; XVM
+8.32; XVM
+8.36; XVM
+8.4; XVM
+8.44; CR4L
+8.48; CR4L
+8.52; Nie wykryto tablicy
+8.56; TTT
+8.6; TTT
+8.64; TTT
+8.68; L11
+8.72; L11
+8.76; L11
+8.8; L11
+8.84; Nie wykryto tablicy
+8.88; L11
+8.92; PJI
+8.96; PJI
+9.0; TTT
+9.04; TTT
+9.08; TTT
+9.12; TTT
+9.16; TTT
+9.2; TTT
+9.24; Nie wykryto tablicy
+9.28; TTT
+9.32; P4J
+9.36; P4J
+9.4; P4J
+9.44; P4J
+9.48; P4J
+9.52; L6I
+9.56; Nie wykryto tablicy
+9.6; L6I
+9.64; FDIIF
+9.68; 2IU
+9.72; 2IU
+9.76; Nie wykryto tablicy
+9.8; TTT
+9.84; FL4C
+9.88; TTT
+9.92; FIT
+9.96; FIL
+10.0; FIL
+10.04; FIL
+10.08; TTY
+10.12; CUII
+10.16; CUII
+10.2; CUII
+10.24; CUII
+10.28; L34
+10.32; LPI
+10.36; LPI
+10.4; Nie wykryto tablicy
+10.44; LPI
+10.48; LPI
+10.52; LPI
+10.56; LJTJJ
+10.6; P4C
+10.64; F40IL
+10.68; PUU
+10.72; PUU
+10.76; PUU
+10.8; PUU
+10.84; PUU
+10.88; PUU
+10.92; LJT
+10.96; FII
+11.0; FII
+11.04; FII
+11.08; PX5N
+11.12; FIF
+11.16; XII
+11.2; PNJ7X
+11.24; CHPKJ
+11.28; TJJ
+11.32; TJJ
+11.36; XXC7
+11.4; T7J
+11.44; T7J
+11.48; X7X
+11.52; TTJ
+11.56; LJJJ
+11.6; XG77J
+11.64; TTJ
+11.68; TTJ
+11.72; TTJ
+11.76; TTJ
+11.8; LVU
+11.84; F5R
+11.88; F5R
+11.92; Nie wykryto tablicy
+11.96; Nie wykryto tablicy
+12.0; Nie wykryto tablicy
+12.04; Nie wykryto tablicy
+12.08; Nie wykryto tablicy
+12.12; Nie wykryto tablicy
+12.16; F5R
+12.2; Nie wykryto tablicy
+12.24; PJQ
+12.28; PJQ
+12.32; Nie wykryto tablicy
+12.36; Nie wykryto tablicy
+12.4; PJQ
+12.44; PJQ
+12.48; PJQ
+12.52; TTT
+12.56; TTT
+12.6; TTT
+12.64; TTT
+12.68; TTT
+12.72; FJY
+12.76; LFC
+12.8; LFC
+12.84; Nie wykryto tablicy
+12.88; LFC
+12.92; LFC
+12.96; LFC
+13.0; Nie wykryto tablicy
+13.04; LFC
+13.08; LFC
+13.12; Nie wykryto tablicy
+13.16; LFC
+13.2; 0NJ
+13.24; 0NJ
+13.28; T7T
+13.32; T7T
+13.36; T7T
+13.4; T7T
+13.44; T7T
+13.48; Nie wykryto tablicy
+13.52; XSX
+13.56; PAD
+13.6; PAD
+13.64; PAD
+13.68; PAD
+13.72; Nie wykryto tablicy
+13.76; Nie wykryto tablicy
+13.8; Nie wykryto tablicy
+13.84; PAD
+13.88; TTXT
+13.92; TTXT
+13.96; TTXT
+14.0; TTT
+14.04; TTT
+14.08; TTT
+14.12; TTT
+14.16; TTT
+14.2; BWU
+14.24; BWU
+14.28; BWU
+14.32; PIJ
+14.36; TTT
+14.4; CI3
+14.44; P7JI
+14.48; P7JI
+14.52; P7JI
+14.56; NK4Z
+14.6; 2XI
+14.64; KIR
+14.68; K4YRB
+14.72; BUA
+14.76; LTQA
+14.8; P1GY
+14.84; P1GY
+14.88; LCPL
+14.92; LCPL
+14.96; LCPL
+15.0; LAAY
+15.04; X44H
+15.08; ZPI
+15.12; ZPI
+15.16; P3IT77I
+15.2; RUJ
+15.24; Z1IY
+15.28; DAH
+15.32; 2V71
+15.36; KI1
+15.4; TVA5
+15.44; LYA
+15.48; XENJ
+15.52; ZWVJ
+15.56; KII3
+15.6; XYAW2
+15.64; XY1
+15.68; LII
+15.72; LII
+15.76; XJ7Y
+15.8; XII0I
+15.84; THL4V
+15.88; KKANI0
+15.92; FA12I
+15.96; D1DV
+16.0; LVRY
+16.04; LTJT
+16.08; LTJT
+16.12; LTJT
+16.16; LTJT
+16.2; LTJT
+16.24; 2II
+16.28; N6ZV
+16.32; 2IA4
+16.36; X7V
+16.4; CIIK
+16.44; KXND4
+16.48; LFAW
+16.52; T8X
+16.56; X7L
+16.6; RY5
+16.64; E3TI
+16.68; XIAAI
+16.72; PPN
+16.76; X1I
+16.8; X1I
+16.84; G4JUAM
+16.88; XI2
+16.92; PADST
+16.96; P7I
+17.0; P7I
+17.04; L4U1
+17.08; L4U1
+17.12; TDIV
+17.16; LIXK
+17.2; XX71
+17.24; XJHMYJ
+17.28; XUXL
+17.32; T7H1
+17.36; T7H1
+17.4; TJA
+17.44; LII
+17.48; PII
+17.52; KIV
+17.56; TDJ
+17.6; PP4A
+17.64; KAI
+17.68; TIII
+17.72; RJIZ
+17.76; RJIZ
+17.8; LUD
+17.84; NAV
+17.88; WII
+17.92; Z6W7R
+17.96; K7167
+18.0; KPAN
+18.04; KPAN
+18.08; TLT
+18.12; B88
+18.16; X2IIHD
+18.2; DUD
+18.24; ZQXI
+18.28; 2L7Y
+18.32; LEI
+18.36; 2JFU
+18.4; NA1
+18.44; XAA
+18.48; XAA
+18.52; LIQK
+18.56; WJ4N
+18.6; ZVAVN
+18.64; CJE4
+18.68; CQ4W
+18.72; C14
+18.76; RIIA
+18.8; WJRMR
+18.84; LHH
+18.88; WLKWMHP
+18.92; XAAAJ
+18.96; LZWV
+19.0; DULU
+19.04; PJHLA
+19.08; LDHDJ
+19.12; LEA7L
+19.16; XJQ
+19.2; TLATA
+19.24; XI75
+19.28; WF51
+19.32; X1P
+19.36; LMTL
+19.4; FUK1Y
+19.44; Z2XQ
+19.48; T7CEXWD
+19.52; PFI
+19.56; TYIHK
+19.6; XI1IXHI
+19.64; WIII
+19.68; LI2HI
+19.72; TP4HEI9
+19.76; TJI7
+19.8; DTDH
+19.84; DUH
+19.88; NLIA
+19.92; C1IJ
+19.96; WP1NFZ
+20.0; FNJS
+20.04; 27V7PJ
+20.08; LAM7
+20.12; CIHQ
+20.16; WLX
+20.2; LJH
+20.24; Z3JXI
+20.28; DDU
+20.32; CZIIII
+20.36; DICLD
+20.4; L4MF1
+20.44; PTDHU
+20.48; DHLHH
+20.52; DTT
+20.56; RUAS
+20.6; 2II
+20.64; ZHPAH
+20.68; XV3Y
+20.72; TFZ4
+20.76; 24AA4
+20.8; DL0IIII
+20.84; W7WPWA
+20.88; WJIR
+20.92; GBIBI
+20.96; WHV21
+21.0; 07X
+21.04; TYTVA
+21.08; TJYVA
+21.12; L4I7
+21.16; XK4LV
+21.2; FL5U6KIIG
+21.24; NIIID
+21.28; 0KMP1
+21.32; LHLLH
+21.36; LH7Z1
+21.4; L1EBII
+21.44; K6HHIIG
+21.48; CEIIG
+21.52; LHLDHU
+21.56; RVLDLBIID
+21.6; LHLBUUI
+21.64; KHBIII
+21.68; LUL
+21.72; CJTA1
+21.76; C6III
+21.8; TGRY1M
+21.84; CUIG
+21.88; T794
+21.92; CDIIG
+21.96; CFHII
+22.0; CEUII
+22.04; DUL
+22.08; LBII
+22.12; LQTTZ
+22.16; LBUII
+22.2; FIIIIG
+22.24; CHII
+22.28; F4VI
+22.32; CI4II
+22.36; F1JF
+22.4; FHJII
+22.44; FHJII
+22.48; PJT
+22.52; LBUBI
+22.56; NIWXF
+22.6; L9L
+22.64; R4II
+22.68; LNA4
+22.72; LBBII
+22.76; XDDDI
+22.8; WAVYV
+22.84; EHHI
+22.88; PP1ON
+22.92; EBII
+22.96; E6B0I
+23.0; 2LPBI
+23.04; DIBUII
+23.08; FQHVA7
+23.12; LLHI
+23.16; KBEII
+23.2; FL7LPU
+23.24; LJKBHI
+23.28; DUL
+23.32; LLDUI
+23.36; DLI7PI
+23.4; L0EBIBI
+23.44; LK84HG
+23.48; LKEBBI
+23.52; 0KBEI
+23.56; LEB8II
+23.6; PII
+23.64; FP6K
+23.68; LI8OG
+23.72; XKI
+23.76; DTXAYHM
+23.8; LKUMBI
+23.84; KB4B
+23.88; ZII
+23.92; FLD1Y
+23.96; LZKNH
+24.0; LULP
+24.04; XL7IYA
+24.08; 2JIHHB
+24.12; LLKHIUII
+24.16; KHHBI0
+24.2; X1XZ
+24.24; LULDJ0
+24.28; RLJJQI
+24.32; LJ408E
+24.36; LWLJJ
+24.4; F4H4
+24.44; K4AM7
+24.48; KB80I
+24.52; BM8
+24.56; LULHDD
+24.6; DLGUPL
+24.64; TUIHII
+24.68; RXI
+24.72; XMHIIW
+24.76; WA4WL
+24.8; DLHD9
+24.84; DLHUP
+24.88; EBBI
+24.92; LDB
+24.96; LJFJ
+25.0; KUJIG
+25.04; C1WVY
+25.08; KBUBI
+25.12; KHUB
+25.16; KRU8D
+25.2; BKXKT
+25.24; TAVDAL
+25.28; EHJI
+25.32; KNNH
+25.36; TIBAIII
+25.4; CWHH0I
+25.44; RDHI
+25.48; KUHB
+25.52; NIXX
+25.56; XAAI
+25.6; TAQ2
+25.64; T4YYF
+25.68; ZXXJD
+25.72; 2KBBBI
+25.76; XYTWA
+25.8; DHUI
+25.84; 21UKX
+25.88; K40886
+25.92; 2KHHI
+25.96; KMMIG
+26.0; Z6ZVL
+26.04; W7KV
+26.08; WWWTRWF
+26.12; NL4JT
+26.16; TY7I9
+26.2; KLUUIIL
+26.24; BBUD5F
+26.28; WAOAR
+26.32; LIKQ
+26.36; FDLLI
+26.4; XTD
+26.44; DDU6
+26.48; LU0II
+26.52; 0889
+26.56; 088
+26.6; KL4088
+26.64; KHHII
+26.68; DLUP
+26.72; TUUHUP
+26.76; KHHI
+26.8; DLU
+26.84; DPLHUP
+26.88; KL40886
+26.92; KL0886
+26.96; KHIIG
+27.0; CJHDI
+27.04; D8857
+27.08; D88652
+27.12; D88652
+27.16; NA1JLAX
+27.2; PUI8HI
+27.24; NI11YN
+27.28; LL088
+27.32; X41N
+27.36; XIBIII
+27.4; XLA4
+27.44; ZY5K
+27.48; LIN7
+27.52; PIID
+27.56; L1II
+27.6; KL4088
+27.64; 08889
+27.68; XV1IV9
+27.72; NUUDII
+27.76; LKL4088
+27.8; CKKJLL
+27.84; KHBIH
+27.88; K088
+27.92; KL088
+27.96; LUJKU
+28.0; THTF2
+28.04; K088
+28.08; RVMF
+28.12; PII
+28.16; RAAKL
+28.2; K4088
+28.24; NLUN
+28.28; TUAUY
+28.32; LPUP
+28.36; K088
+28.4; LDDD
+28.44; W4TW4
+28.48; FTYAT
+28.52; KL4088
+28.56; CRAFW
+28.6; XVLKI
+28.64; NB6NI
+28.68; KL4088
+28.72; NUUNII
+28.76; CCFL1
+28.8; ZR11N
+28.84; KL4088
+28.88; K4088
+28.92; LUNQJ
+28.96; K4088
+29.0; NNRB
+29.04; TTWY
+29.08; DDDD
+29.12; KL4088
+29.16; PYX7
+29.2; FQX1
+29.24; TJRW
+29.28; K4088
+29.32; LVYLL
+29.36; L4088
+29.4; LOA74J
+29.44; KL4088
+29.48; W1KVR1T
+29.52; LJJK6B
+29.56; K6H6G
+29.6; L74NFW
+29.64; BBBII
+29.68; XUVZ
+29.72; DDDD
+29.76; KPE4L
+29.8; LYULV
+29.84; GYYTU
+29.88; BJLY
+29.92; LUUP
+29.96; DDDD
+30.0; K0HDG
+30.04; K4D88
+30.08; DULU
+30.12; KYKH2
+30.16; LDDD
+30.2; K088
+30.24; LT1J
+30.28; W4YIK
+30.32; 2XXIAI
+30.36; CUMHHI
+30.4; CIII
+30.44; DDDL
+30.48; DHLI
+30.52; K088
+30.56; KHUU
+30.6; CWAD4
+30.64; T7YVH
+30.68; KL40886
+30.72; DI7
+30.76; L8H1J
+30.8; BUBI
+30.84; 0889
+30.88; 088852
+30.92; 0888SI
+30.96; T14L
+31.0; W4UUYL
+31.04; WFTTLV
+31.08; F7II77
+31.12; 2MUHHF
+31.16; LYUNQL
+31.2; KL408
+31.24; WYFF
+31.28; BUBII
+31.32; CLPIXII
+31.36; K1LQ
+31.4; TU74
+31.44; DDD
+31.48; SJXI
+31.52; LUXQU7
+31.56; X4FK5
+31.6; 0DII
+31.64; LDIII
+31.68; 08862
+31.72; KBHIG
+31.76; XXPFV
+31.8; K4088
+31.84; 08852
+31.88; XIHBL
+31.92; LDD
+31.96; TYAN4
+32.0; NRQ
+32.04; NUBIIL
+32.08; DDDD
+32.12; GUTRJ4
+32.16; NB6I
+32.2; TAJA8A
+32.24; 088
+32.28; FI1X1
+32.32; KUU0
+32.36; LULJ
+32.4; XAP4T
+32.44; KI7A
+32.48; LX8V
+32.52; NHDIG
+32.56; XL8V
+32.6; RLVTU
+32.64; X1RV
+32.68; FLHJ
+32.72; KXY1I
+32.76; DPLHP
+32.8; ZA07
+32.84; PNHFG
+32.88; 088
+32.92; L4O88
+32.96; TA4FLN
+33.0; ELHLH
+33.04; KL40887
+33.08; DUHE
+33.12; DDD
+33.16; KRUII
+33.2; KL4088
+33.24; BC4I
+33.28; DDD
+33.32; KL4088Q
+33.36; L4088
+33.4; DJP4
+33.44; L4JKBB
+33.48; X7XA
+33.52; KL4O88
+33.56; N7KW
+33.6; OKBH9
+33.64; 088
+33.68; KL40886
+33.72; 21WNP8I
+33.76; K7TTJM
+33.8; LIII
+33.84; K4088
+33.88; XP1H
+33.92; WJAYL
+33.96; TK4HL
+34.0; 2A7X
+34.04; ELJUJ
+34.08; LLJJ
+34.12; RFVAYA
+34.16; X4OHF4
+34.2; DTFHA1E
+34.24; TTJ
+34.28; TA5X
+34.32; KL4088
+34.36; PLHU
+34.4; KL4088
+34.44; 088
+34.48; 2AJBKF
+34.52; KL4088
+34.56; X7N1
+34.6; PUPUP
+34.64; KL4088
+34.68; KBBI
+34.72; RIKA
+34.76; K4088
+34.8; K4088
+34.84; KL4088
+34.88; KLLII
+34.92; EMII
+34.96; KL40886
+35.0; KBBI
+35.04; DCKAI
+35.08; XI7II77R
+35.12; LKL4088
+35.16; 088
+35.2; XRHBL
+35.24; TIG
+35.28; K8HIIG
+35.32; KBUII
+35.36; TUPUP
+35.4; WIYALK1
+35.44; WI51K
+35.48; WI11
+35.52; KBUI
+35.56; KL4088
+35.6; KL4088
+35.64; CAUD1
+35.68; KL4088J
+35.72; N7III
+35.76; RAAI
+35.8; T7AX
+35.84; D7Y
+35.88; KL088
+35.92; 2ZFWI
+35.96; CXL7
+36.0; LK1
+36.04; KL40886
+0.04; Nie wykryto tablicy
+0.08; Nie wykryto tablicy
+0.12; Nie wykryto tablicy
+0.16; Nie wykryto tablicy
+0.2; Nie wykryto tablicy
+0.24; Nie wykryto tablicy
+0.28; Nie wykryto tablicy
+0.32; Nie wykryto tablicy
+0.36; Nie wykryto tablicy
+0.4; Nie wykryto tablicy
+0.44; Nie wykryto tablicy
+0.48; Nie wykryto tablicy
+0.52; Nie wykryto tablicy
+0.56; Nie wykryto tablicy
+0.6; Nie wykryto tablicy
+0.64; Nie wykryto tablicy
+0.68; Nie wykryto tablicy
+0.72; Nie wykryto tablicy
+0.76; Nie wykryto tablicy
+0.8; Nie wykryto tablicy
+0.84; Nie wykryto tablicy
+0.88; Nie wykryto tablicy
+0.92; Nie wykryto tablicy
+0.96; Nie wykryto tablicy
+1.0; Nie wykryto tablicy
+1.04; Nie wykryto tablicy
+1.08; Nie wykryto tablicy
+1.12; Nie wykryto tablicy
+1.16; Nie wykryto tablicy
+1.2; Nie wykryto tablicy
+1.24; Nie wykryto tablicy
+1.28; Nie wykryto tablicy
+1.32; Nie wykryto tablicy
+1.36; Nie wykryto tablicy
+1.4; Nie wykryto tablicy
+1.44; Nie wykryto tablicy
+1.48; Nie wykryto tablicy
+1.52; Nie wykryto tablicy
+1.56; Nie wykryto tablicy
+1.6; Nie wykryto tablicy
+1.64; Nie wykryto tablicy
+1.68; Nie wykryto tablicy
+1.72; Nie wykryto tablicy
+1.76; Nie wykryto tablicy
+1.8; Nie wykryto tablicy
+1.84; Nie wykryto tablicy
+1.88; Nie wykryto tablicy
+1.92; Nie wykryto tablicy
+1.96; Nie wykryto tablicy
+2.0; Nie wykryto tablicy
+2.04; Nie wykryto tablicy
+2.08; Nie wykryto tablicy
+2.12; Nie wykryto tablicy
+2.16; Nie wykryto tablicy
+2.2; Nie wykryto tablicy
+2.24; Nie wykryto tablicy
+2.28; Nie wykryto tablicy
+2.32; Nie wykryto tablicy
+2.36; Nie wykryto tablicy
+2.4; Nie wykryto tablicy
+2.44; Nie wykryto tablicy
+2.48; Nie wykryto tablicy
+2.52; Nie wykryto tablicy
+2.56; Nie wykryto tablicy
+2.6; Nie wykryto tablicy
+2.64; Nie wykryto tablicy
+2.68; Nie wykryto tablicy
+2.72; Nie wykryto tablicy
+2.76; Nie wykryto tablicy
+2.8; Nie wykryto tablicy
+2.84; Nie wykryto tablicy
+2.88; Nie wykryto tablicy
+2.92; Nie wykryto tablicy
+2.96; Nie wykryto tablicy
+3.0; Nie wykryto tablicy
+3.04; Nie wykryto tablicy
+3.08; Nie wykryto tablicy
+3.12; Nie wykryto tablicy
+3.16; Nie wykryto tablicy
+3.2; Nie wykryto tablicy
+3.24; Nie wykryto tablicy
+3.28; Nie wykryto tablicy
+3.32; Nie wykryto tablicy
+3.36; Nie wykryto tablicy
+3.4; Nie wykryto tablicy
+3.44; Nie wykryto tablicy
+3.48; Nie wykryto tablicy
+3.52; Nie wykryto tablicy
+3.56; Nie wykryto tablicy
+3.6; Nie wykryto tablicy
+3.64; Nie wykryto tablicy
+3.68; Nie wykryto tablicy
+3.72; Nie wykryto tablicy
+3.76; Nie wykryto tablicy
+3.8; Nie wykryto tablicy
+3.84; Nie wykryto tablicy
+3.88; Nie wykryto tablicy
+3.92; Nie wykryto tablicy
+3.96; Nie wykryto tablicy
+4.0; Nie wykryto tablicy
+4.04; Nie wykryto tablicy
+4.08; Nie wykryto tablicy
+4.12; Nie wykryto tablicy
+4.16; Nie wykryto tablicy
+4.2; Nie wykryto tablicy
+4.24; Nie wykryto tablicy
+4.28; Nie wykryto tablicy
+4.32; Nie wykryto tablicy
+4.36; Nie wykryto tablicy
+4.4; Nie wykryto tablicy
+4.44; Nie wykryto tablicy
+4.48; Nie wykryto tablicy
+4.52; Nie wykryto tablicy
+4.56; Nie wykryto tablicy
+4.6; Nie wykryto tablicy
+4.64; Nie wykryto tablicy
+4.68; Nie wykryto tablicy
+4.72; Nie wykryto tablicy
+4.76; Nie wykryto tablicy
+4.8; Nie wykryto tablicy
+4.84; Nie wykryto tablicy
+4.88; Nie wykryto tablicy
+4.92; Nie wykryto tablicy
+4.96; Nie wykryto tablicy
+5.0; Nie wykryto tablicy
+5.04; Nie wykryto tablicy
+5.08; Nie wykryto tablicy
+5.12; Nie wykryto tablicy
+5.16; Nie wykryto tablicy
+5.2; Nie wykryto tablicy
+5.24; Nie wykryto tablicy
+5.28; Nie wykryto tablicy
+5.32; Nie wykryto tablicy
+5.36; Nie wykryto tablicy
+5.4; Nie wykryto tablicy
+5.44; Nie wykryto tablicy
+5.48; Nie wykryto tablicy
+5.52; Nie wykryto tablicy
+5.56; Nie wykryto tablicy
+5.6; Nie wykryto tablicy
+5.64; Nie wykryto tablicy
+5.68; Nie wykryto tablicy
+5.72; Nie wykryto tablicy
+5.76; Nie wykryto tablicy
+5.8; Nie wykryto tablicy
+5.84; Nie wykryto tablicy
+5.88; Nie wykryto tablicy
+5.92; Nie wykryto tablicy
+5.96; Nie wykryto tablicy
+6.0; Nie wykryto tablicy
+6.04; Nie wykryto tablicy
+6.08; Nie wykryto tablicy
+6.12; Nie wykryto tablicy
+6.16; Nie wykryto tablicy
+6.2; Nie wykryto tablicy
+6.24; Nie wykryto tablicy
+6.28; Nie wykryto tablicy
+6.32; Nie wykryto tablicy
+6.36; Nie wykryto tablicy
+6.4; Nie wykryto tablicy
+6.44; Nie wykryto tablicy
+6.48; Nie wykryto tablicy
+6.52; Nie wykryto tablicy
+6.56; Nie wykryto tablicy
+6.6; Nie wykryto tablicy
+6.64; Nie wykryto tablicy
+6.68; Nie wykryto tablicy
+6.72; Nie wykryto tablicy
+6.76; Nie wykryto tablicy
+6.8; Nie wykryto tablicy
+6.84; Nie wykryto tablicy
+6.88; Nie wykryto tablicy
+6.92; Nie wykryto tablicy
+6.96; Nie wykryto tablicy
+7.0; Nie wykryto tablicy
+7.04; Nie wykryto tablicy
+7.08; Nie wykryto tablicy
+7.12; Nie wykryto tablicy
+7.16; Nie wykryto tablicy
+7.2; Nie wykryto tablicy
+7.24; Nie wykryto tablicy
+7.28; Nie wykryto tablicy
+7.32; Nie wykryto tablicy
+7.36; Nie wykryto tablicy
+7.4; Nie wykryto tablicy
+7.44; Nie wykryto tablicy
+7.48; Nie wykryto tablicy
+7.52; Nie wykryto tablicy
+7.56; Nie wykryto tablicy
+7.6; Nie wykryto tablicy
+7.64; Nie wykryto tablicy
+7.68; Nie wykryto tablicy
+7.72; Nie wykryto tablicy
+7.76; Nie wykryto tablicy
+7.8; Nie wykryto tablicy
+7.84; Nie wykryto tablicy
+7.88; Nie wykryto tablicy
+7.92; Nie wykryto tablicy
+7.96; Nie wykryto tablicy
+8.0; Nie wykryto tablicy
+8.04; Nie wykryto tablicy
+8.08; Nie wykryto tablicy
+8.12; Nie wykryto tablicy
+8.16; Nie wykryto tablicy
+8.2; Nie wykryto tablicy
+8.24; Nie wykryto tablicy
+8.28; Nie wykryto tablicy
+8.32; Nie wykryto tablicy
+8.36; Nie wykryto tablicy
+8.4; Nie wykryto tablicy
+8.44; Nie wykryto tablicy
+8.48; Nie wykryto tablicy
+8.52; Nie wykryto tablicy
+8.56; Nie wykryto tablicy
+8.6; Nie wykryto tablicy
+8.64; Nie wykryto tablicy
+8.68; Nie wykryto tablicy
+8.72; Nie wykryto tablicy
+8.76; Nie wykryto tablicy
+8.8; Nie wykryto tablicy
+8.84; Nie wykryto tablicy
+8.88; Nie wykryto tablicy
+8.92; Nie wykryto tablicy
+8.96; Nie wykryto tablicy
+9.0; Nie wykryto tablicy
+9.04; Nie wykryto tablicy
+9.08; Nie wykryto tablicy
+9.12; Nie wykryto tablicy
+9.16; Nie wykryto tablicy
+9.2; Nie wykryto tablicy
+9.24; Nie wykryto tablicy
+9.28; Nie wykryto tablicy
+9.32; Nie wykryto tablicy
+9.36; Nie wykryto tablicy
+9.4; Nie wykryto tablicy
+9.44; Nie wykryto tablicy
+9.48; Nie wykryto tablicy
+9.52; Nie wykryto tablicy
+9.56; Nie wykryto tablicy
+9.6; Nie wykryto tablicy
+9.64; Nie wykryto tablicy
+9.68; Nie wykryto tablicy
+9.72; Nie wykryto tablicy
+9.76; Nie wykryto tablicy
+9.8; Nie wykryto tablicy
+9.84; Nie wykryto tablicy
+9.88; Nie wykryto tablicy
+9.92; Nie wykryto tablicy
+9.96; Nie wykryto tablicy
+10.0; Nie wykryto tablicy
+10.04; Nie wykryto tablicy
+10.08; Nie wykryto tablicy
+10.12; Nie wykryto tablicy
+10.16; Nie wykryto tablicy
+10.2; Nie wykryto tablicy
+10.24; Nie wykryto tablicy
+10.28; Nie wykryto tablicy
+10.32; Nie wykryto tablicy
+10.36; Nie wykryto tablicy
+10.4; Nie wykryto tablicy
+10.44; Nie wykryto tablicy
+10.48; Nie wykryto tablicy
+10.52; Nie wykryto tablicy
+10.56; Nie wykryto tablicy
+10.6; Nie wykryto tablicy
+10.64; Nie wykryto tablicy
+10.68; Nie wykryto tablicy
+10.72; Nie wykryto tablicy
+10.76; Nie wykryto tablicy
+10.8; Nie wykryto tablicy
+10.84; Nie wykryto tablicy
+10.88; Nie wykryto tablicy
+10.92; Nie wykryto tablicy
+10.96; Nie wykryto tablicy
+11.0; Nie wykryto tablicy
+11.04; Nie wykryto tablicy
+11.08; Nie wykryto tablicy
+11.12; Nie wykryto tablicy
+11.16; Nie wykryto tablicy
+11.2; Nie wykryto tablicy
+11.24; Nie wykryto tablicy
+11.28; Nie wykryto tablicy
+11.32; Nie wykryto tablicy
+11.36; Nie wykryto tablicy
+11.4; Nie wykryto tablicy
+11.44; Nie wykryto tablicy
+11.48; Nie wykryto tablicy
+11.52; Nie wykryto tablicy
+11.56; Nie wykryto tablicy
+11.6; Nie wykryto tablicy
+11.64; Nie wykryto tablicy
+11.68; Nie wykryto tablicy
+11.72; Nie wykryto tablicy
+11.76; Nie wykryto tablicy
+11.8; Nie wykryto tablicy
+11.84; Nie wykryto tablicy
+11.88; Nie wykryto tablicy
+11.92; Nie wykryto tablicy
+11.96; Nie wykryto tablicy
+12.0; Nie wykryto tablicy
+12.04; Nie wykryto tablicy
+12.08; Nie wykryto tablicy
+12.12; Nie wykryto tablicy
+12.16; Nie wykryto tablicy
+12.2; Nie wykryto tablicy
+12.24; Nie wykryto tablicy
+12.28; Nie wykryto tablicy
+12.32; Nie wykryto tablicy
+12.36; Nie wykryto tablicy
+12.4; Nie wykryto tablicy
+12.44; Nie wykryto tablicy
+12.48; Nie wykryto tablicy
+12.52; Nie wykryto tablicy
+12.56; Nie wykryto tablicy
+12.6; Nie wykryto tablicy
+12.64; Nie wykryto tablicy
+12.68; Nie wykryto tablicy
+12.72; Nie wykryto tablicy
+12.76; Nie wykryto tablicy
+12.8; Nie wykryto tablicy
+12.84; Nie wykryto tablicy
+12.88; Nie wykryto tablicy
+12.92; Nie wykryto tablicy
+12.96; Nie wykryto tablicy
+13.0; Nie wykryto tablicy
+13.04; Nie wykryto tablicy
+13.08; Nie wykryto tablicy
+13.12; Nie wykryto tablicy
+13.16; Nie wykryto tablicy
+13.2; Nie wykryto tablicy
+13.24; Nie wykryto tablicy
+13.28; Nie wykryto tablicy
+13.32; Nie wykryto tablicy
+13.36; Nie wykryto tablicy
+13.4; Nie wykryto tablicy
+13.44; Nie wykryto tablicy
+13.48; Nie wykryto tablicy
+13.52; Nie wykryto tablicy
+13.56; Nie wykryto tablicy
+13.6; Nie wykryto tablicy
+13.64; Nie wykryto tablicy
+13.68; Nie wykryto tablicy
+13.72; Nie wykryto tablicy
+13.76; Nie wykryto tablicy
+13.8; Nie wykryto tablicy
+13.84; Nie wykryto tablicy
+13.88; Nie wykryto tablicy
+13.92; Nie wykryto tablicy
+13.96; Nie wykryto tablicy
+14.0; Nie wykryto tablicy
+14.04; Nie wykryto tablicy
+14.08; Nie wykryto tablicy
+14.12; Nie wykryto tablicy
+14.16; Nie wykryto tablicy
+14.2; Nie wykryto tablicy
+14.24; Nie wykryto tablicy
+14.28; Nie wykryto tablicy
+14.32; Nie wykryto tablicy
+14.36; Nie wykryto tablicy
+14.4; Nie wykryto tablicy
+14.44; Nie wykryto tablicy
+14.48; Nie wykryto tablicy
+14.52; Nie wykryto tablicy
+14.56; Nie wykryto tablicy
+14.6; Nie wykryto tablicy
+14.64; Nie wykryto tablicy
+14.68; Nie wykryto tablicy
+14.72; Nie wykryto tablicy
+14.76; Nie wykryto tablicy
+14.8; Nie wykryto tablicy
+14.84; Nie wykryto tablicy
+14.88; Nie wykryto tablicy
+14.92; Nie wykryto tablicy
+14.96; Nie wykryto tablicy
+15.0; Nie wykryto tablicy
+15.04; Nie wykryto tablicy
+15.08; Nie wykryto tablicy
+15.12; Nie wykryto tablicy
+15.16; Nie wykryto tablicy
+15.2; Nie wykryto tablicy
+15.24; Nie wykryto tablicy
+15.28; Nie wykryto tablicy
+15.32; Nie wykryto tablicy
+15.36; Nie wykryto tablicy
+15.4; Nie wykryto tablicy
+15.44; Nie wykryto tablicy
+15.48; Nie wykryto tablicy
+15.52; Nie wykryto tablicy
+15.56; Nie wykryto tablicy
+15.6; Nie wykryto tablicy
+15.64; Nie wykryto tablicy
+15.68; Nie wykryto tablicy
+15.72; Nie wykryto tablicy
+15.76; Nie wykryto tablicy
+15.8; Nie wykryto tablicy
+15.84; Nie wykryto tablicy
+15.88; Nie wykryto tablicy
+15.92; Nie wykryto tablicy
+15.96; Nie wykryto tablicy
+16.0; Nie wykryto tablicy
+16.04; Nie wykryto tablicy
+16.08; Nie wykryto tablicy
+16.12; Nie wykryto tablicy
+16.16; Nie wykryto tablicy
+16.2; Nie wykryto tablicy
+16.24; Nie wykryto tablicy
+16.28; Nie wykryto tablicy
+16.32; Nie wykryto tablicy
+16.36; Nie wykryto tablicy
+16.4; Nie wykryto tablicy
+16.44; Nie wykryto tablicy
+16.48; Nie wykryto tablicy
+16.52; Nie wykryto tablicy
+16.56; Nie wykryto tablicy
+16.6; Nie wykryto tablicy
+16.64; Nie wykryto tablicy
+16.68; Nie wykryto tablicy
+16.72; Nie wykryto tablicy
+16.76; Nie wykryto tablicy
+16.8; Nie wykryto tablicy
+16.84; Nie wykryto tablicy
+16.88; Nie wykryto tablicy
+16.92; Nie wykryto tablicy
+16.96; Nie wykryto tablicy
+17.0; Nie wykryto tablicy
+17.04; Nie wykryto tablicy
+17.08; Nie wykryto tablicy
+17.12; Nie wykryto tablicy
+17.16; Nie wykryto tablicy
+17.2; Nie wykryto tablicy
+17.24; Nie wykryto tablicy
+17.28; Nie wykryto tablicy
+17.32; Nie wykryto tablicy
+17.36; Nie wykryto tablicy
+17.4; Nie wykryto tablicy
+17.44; Nie wykryto tablicy
+17.48; Nie wykryto tablicy
+17.52; Nie wykryto tablicy
+17.56; Nie wykryto tablicy
+17.6; Nie wykryto tablicy
+17.64; Nie wykryto tablicy
+17.68; Nie wykryto tablicy
+17.72; Nie wykryto tablicy
+17.76; Nie wykryto tablicy
+17.8; Nie wykryto tablicy
+17.84; Nie wykryto tablicy
+17.88; Nie wykryto tablicy
+17.92; Nie wykryto tablicy
+17.96; Nie wykryto tablicy
+18.0; Nie wykryto tablicy
+18.04; Nie wykryto tablicy
+18.08; Nie wykryto tablicy
+18.12; Nie wykryto tablicy
+18.16; Nie wykryto tablicy
+18.2; Nie wykryto tablicy
+18.24; Nie wykryto tablicy
+18.28; Nie wykryto tablicy
+18.32; Nie wykryto tablicy
+18.36; Nie wykryto tablicy
+18.4; Nie wykryto tablicy
+18.44; Nie wykryto tablicy
+18.48; Nie wykryto tablicy
+18.52; Nie wykryto tablicy
+18.56; Nie wykryto tablicy
+18.6; Nie wykryto tablicy
+18.64; Nie wykryto tablicy
+18.68; Nie wykryto tablicy
+18.72; Nie wykryto tablicy
+18.76; Nie wykryto tablicy
+18.8; Nie wykryto tablicy
+18.84; Nie wykryto tablicy
+18.88; Nie wykryto tablicy
+18.92; Nie wykryto tablicy
+18.96; Nie wykryto tablicy
+19.0; Nie wykryto tablicy
+19.04; Nie wykryto tablicy
+19.08; Nie wykryto tablicy
+19.12; Nie wykryto tablicy
+19.16; Nie wykryto tablicy
+19.2; Nie wykryto tablicy
+19.24; Nie wykryto tablicy
+19.28; Nie wykryto tablicy
+19.32; Nie wykryto tablicy
+19.36; Nie wykryto tablicy
+19.4; Nie wykryto tablicy
+19.44; Nie wykryto tablicy
+19.48; Nie wykryto tablicy
+19.52; Nie wykryto tablicy
+19.56; Nie wykryto tablicy
+19.6; Nie wykryto tablicy
+19.64; Nie wykryto tablicy
+19.68; Nie wykryto tablicy
+19.72; Nie wykryto tablicy
+19.76; Nie wykryto tablicy
+19.8; Nie wykryto tablicy
+19.84; Nie wykryto tablicy
+19.88; Nie wykryto tablicy
+19.92; Nie wykryto tablicy
+19.96; PWP1NFZ
+20.0; Nie wykryto tablicy
+20.04; Nie wykryto tablicy
+20.08; Nie wykryto tablicy
+20.12; Nie wykryto tablicy
+20.16; Nie wykryto tablicy
+20.2; Nie wykryto tablicy
+20.24; Nie wykryto tablicy
+20.28; Nie wykryto tablicy
+20.32; Nie wykryto tablicy
+20.36; Nie wykryto tablicy
+20.4; Nie wykryto tablicy
+20.44; Nie wykryto tablicy
+20.48; Nie wykryto tablicy
+20.52; Nie wykryto tablicy
+20.56; Nie wykryto tablicy
+20.6; Nie wykryto tablicy
+20.64; Nie wykryto tablicy
+20.68; Nie wykryto tablicy
+20.72; Nie wykryto tablicy
+20.76; Nie wykryto tablicy
+20.8; DL0IIII
+20.84; Nie wykryto tablicy
+20.88; Nie wykryto tablicy
+20.92; Nie wykryto tablicy
+20.96; Nie wykryto tablicy
+21.0; Nie wykryto tablicy
+21.04; Nie wykryto tablicy
+21.08; Nie wykryto tablicy
+21.12; Nie wykryto tablicy
+21.16; Nie wykryto tablicy
+21.2; Nie wykryto tablicy
+21.24; Nie wykryto tablicy
+21.28; Nie wykryto tablicy
+21.32; Nie wykryto tablicy
+21.36; Nie wykryto tablicy
+21.4; Nie wykryto tablicy
+21.44; Nie wykryto tablicy
+21.48; Nie wykryto tablicy
+21.52; Nie wykryto tablicy
+21.56; RVLDLBIID
+21.6; Nie wykryto tablicy
+21.64; Nie wykryto tablicy
+21.68; Nie wykryto tablicy
+21.72; Nie wykryto tablicy
+21.76; Nie wykryto tablicy
+21.8; Nie wykryto tablicy
+21.84; Nie wykryto tablicy
+21.88; Nie wykryto tablicy
+21.92; Nie wykryto tablicy
+21.96; Nie wykryto tablicy
+22.0; Nie wykryto tablicy
+22.04; Nie wykryto tablicy
+22.08; Nie wykryto tablicy
+22.12; Nie wykryto tablicy
+22.16; Nie wykryto tablicy
+22.2; Nie wykryto tablicy
+22.24; Nie wykryto tablicy
+22.28; Nie wykryto tablicy
+22.32; Nie wykryto tablicy
+22.36; Nie wykryto tablicy
+22.4; Nie wykryto tablicy
+22.44; Nie wykryto tablicy
+22.48; Nie wykryto tablicy
+22.52; Nie wykryto tablicy
+22.56; Nie wykryto tablicy
+22.6; Nie wykryto tablicy
+22.64; Nie wykryto tablicy
+22.68; Nie wykryto tablicy
+22.72; Nie wykryto tablicy
+22.76; Nie wykryto tablicy
+22.8; Nie wykryto tablicy
+22.84; Nie wykryto tablicy
+22.88; Nie wykryto tablicy
+22.92; Nie wykryto tablicy
+22.96; Nie wykryto tablicy
+23.0; Nie wykryto tablicy
+23.04; Nie wykryto tablicy
+23.08; Nie wykryto tablicy
+23.12; Nie wykryto tablicy
+23.16; Nie wykryto tablicy
+23.2; LLIBUII
+23.24; LLIBUII
+23.28; Nie wykryto tablicy
+23.32; Nie wykryto tablicy
+23.36; Nie wykryto tablicy
+23.4; L0EEL8G
+23.44; Nie wykryto tablicy
+23.48; Nie wykryto tablicy
+23.52; Nie wykryto tablicy
+23.56; Nie wykryto tablicy
+23.6; Nie wykryto tablicy
+23.64; Nie wykryto tablicy
+23.68; Nie wykryto tablicy
+23.72; Nie wykryto tablicy
+23.76; DTVXAYPM
+23.8; Nie wykryto tablicy
+23.84; Nie wykryto tablicy
+23.88; Nie wykryto tablicy
+23.92; Nie wykryto tablicy
+23.96; Nie wykryto tablicy
+24.0; Nie wykryto tablicy
+24.04; Nie wykryto tablicy
+24.08; Nie wykryto tablicy
+24.12; Nie wykryto tablicy
+24.16; Nie wykryto tablicy
+24.2; Nie wykryto tablicy
+24.24; Nie wykryto tablicy
+24.28; Nie wykryto tablicy
+24.32; Nie wykryto tablicy
+24.36; Nie wykryto tablicy
+24.4; Nie wykryto tablicy
+24.44; Nie wykryto tablicy
+24.48; Nie wykryto tablicy
+24.52; Nie wykryto tablicy
+24.56; Nie wykryto tablicy
+24.6; Nie wykryto tablicy
+24.64; Nie wykryto tablicy
+24.68; Nie wykryto tablicy
+24.72; Nie wykryto tablicy
+24.76; Nie wykryto tablicy
+24.8; Nie wykryto tablicy
+24.84; Nie wykryto tablicy
+24.88; WWWUAH1
+24.92; WV6NWAF1
+24.96; Nie wykryto tablicy
+25.0; Nie wykryto tablicy
+25.04; Nie wykryto tablicy
+25.08; Nie wykryto tablicy
+25.12; Nie wykryto tablicy
+25.16; Nie wykryto tablicy
+25.2; Nie wykryto tablicy
+25.24; Nie wykryto tablicy
+25.28; Nie wykryto tablicy
+25.32; Nie wykryto tablicy
+25.36; Nie wykryto tablicy
+25.4; Nie wykryto tablicy
+25.44; Nie wykryto tablicy
+25.48; Nie wykryto tablicy
+25.52; Nie wykryto tablicy
+25.56; Nie wykryto tablicy
+25.6; Nie wykryto tablicy
+25.64; Nie wykryto tablicy
+25.68; Nie wykryto tablicy
+25.72; Nie wykryto tablicy
+25.76; Nie wykryto tablicy
+25.8; Nie wykryto tablicy
+25.84; Nie wykryto tablicy
+25.88; Nie wykryto tablicy
+25.92; Nie wykryto tablicy
+25.96; Nie wykryto tablicy
+26.0; Nie wykryto tablicy
+26.04; Nie wykryto tablicy
+26.08; Nie wykryto tablicy
+26.12; N4WTNQI
+26.16; Nie wykryto tablicy
+26.2; Nie wykryto tablicy
+26.24; Nie wykryto tablicy
+26.28; Nie wykryto tablicy
+26.32; Nie wykryto tablicy
+26.36; Nie wykryto tablicy
+26.4; Nie wykryto tablicy
+26.44; Nie wykryto tablicy
+26.48; Nie wykryto tablicy
+26.52; Nie wykryto tablicy
+26.56; Nie wykryto tablicy
+26.6; Nie wykryto tablicy
+26.64; Nie wykryto tablicy
+26.68; Nie wykryto tablicy
+26.72; Nie wykryto tablicy
+26.76; Nie wykryto tablicy
+26.8; Nie wykryto tablicy
+26.84; Nie wykryto tablicy
+26.88; KL40886
+26.92; Nie wykryto tablicy
+26.96; Nie wykryto tablicy
+27.0; Nie wykryto tablicy
+27.04; Nie wykryto tablicy
+27.08; LDIUFII
+27.12; Nie wykryto tablicy
+27.16; Nie wykryto tablicy
+27.2; Nie wykryto tablicy
+27.24; Nie wykryto tablicy
+27.28; Nie wykryto tablicy
+27.32; Nie wykryto tablicy
+27.36; Nie wykryto tablicy
+27.4; Nie wykryto tablicy
+27.44; Nie wykryto tablicy
+27.48; Nie wykryto tablicy
+27.52; Nie wykryto tablicy
+27.56; Nie wykryto tablicy
+27.6; Nie wykryto tablicy
+27.64; Nie wykryto tablicy
+27.68; Nie wykryto tablicy
+27.72; Nie wykryto tablicy
+27.76; Nie wykryto tablicy
+27.8; Nie wykryto tablicy
+27.84; Nie wykryto tablicy
+27.88; Nie wykryto tablicy
+27.92; Nie wykryto tablicy
+27.96; Nie wykryto tablicy
+28.0; Nie wykryto tablicy
+28.04; Nie wykryto tablicy
+28.08; Nie wykryto tablicy
+28.12; Nie wykryto tablicy
+28.16; Nie wykryto tablicy
+28.2; Nie wykryto tablicy
+28.24; Nie wykryto tablicy
+28.28; Nie wykryto tablicy
+28.32; Nie wykryto tablicy
+28.36; Nie wykryto tablicy
+28.4; Nie wykryto tablicy
+28.44; Nie wykryto tablicy
+28.48; Nie wykryto tablicy
+28.52; Nie wykryto tablicy
+28.56; Nie wykryto tablicy
+28.6; Nie wykryto tablicy
+28.64; Nie wykryto tablicy
+28.68; Nie wykryto tablicy
+28.72; Nie wykryto tablicy
+28.76; Nie wykryto tablicy
+28.8; Nie wykryto tablicy
+28.84; Nie wykryto tablicy
+28.88; Nie wykryto tablicy
+28.92; Nie wykryto tablicy
+28.96; Nie wykryto tablicy
+29.0; XZIKLLV5
+29.04; Nie wykryto tablicy
+29.08; Nie wykryto tablicy
+29.12; Nie wykryto tablicy
+29.16; Nie wykryto tablicy
+29.2; Nie wykryto tablicy
+29.24; Nie wykryto tablicy
+29.28; Nie wykryto tablicy
+29.32; Nie wykryto tablicy
+29.36; Nie wykryto tablicy
+29.4; TTXI12L
+29.44; Nie wykryto tablicy
+29.48; W1KVR1T
+29.52; Nie wykryto tablicy
+29.56; Nie wykryto tablicy
+29.6; Nie wykryto tablicy
+29.64; Nie wykryto tablicy
+29.68; Nie wykryto tablicy
+29.72; Nie wykryto tablicy
+29.76; Nie wykryto tablicy
+29.8; Nie wykryto tablicy
+29.84; Nie wykryto tablicy
+29.88; Nie wykryto tablicy
+29.92; TK0U0IG
+29.96; Nie wykryto tablicy
+30.0; Nie wykryto tablicy
+30.04; Nie wykryto tablicy
+30.08; Nie wykryto tablicy
+30.12; Nie wykryto tablicy
+30.16; Nie wykryto tablicy
+30.2; Nie wykryto tablicy
+30.24; Nie wykryto tablicy
+30.28; Nie wykryto tablicy
+30.32; Nie wykryto tablicy
+30.36; Nie wykryto tablicy
+30.4; Nie wykryto tablicy
+30.44; Nie wykryto tablicy
+30.48; Nie wykryto tablicy
+30.52; Nie wykryto tablicy
+30.56; Nie wykryto tablicy
+30.6; Nie wykryto tablicy
+30.64; Nie wykryto tablicy
+30.68; KL40886
+30.72; Nie wykryto tablicy
+30.76; Nie wykryto tablicy
+30.8; Nie wykryto tablicy
+30.84; Nie wykryto tablicy
+30.88; Nie wykryto tablicy
+30.92; Nie wykryto tablicy
+30.96; Nie wykryto tablicy
+31.0; Nie wykryto tablicy
+31.04; WDLF4TTL
+31.08; Nie wykryto tablicy
+31.12; Nie wykryto tablicy
+31.16; Nie wykryto tablicy
+31.2; Nie wykryto tablicy
+31.24; Nie wykryto tablicy
+31.28; Nie wykryto tablicy
+31.32; Nie wykryto tablicy
+31.36; Nie wykryto tablicy
+31.4; Nie wykryto tablicy
+31.44; Nie wykryto tablicy
+31.48; Nie wykryto tablicy
+31.52; Nie wykryto tablicy
+31.56; Nie wykryto tablicy
+31.6; Nie wykryto tablicy
+31.64; Nie wykryto tablicy
+31.68; Nie wykryto tablicy
+31.72; Nie wykryto tablicy
+31.76; Nie wykryto tablicy
+31.8; Nie wykryto tablicy
+31.84; Nie wykryto tablicy
+31.88; Nie wykryto tablicy
+31.92; Nie wykryto tablicy
+31.96; Nie wykryto tablicy
+32.0; Nie wykryto tablicy
+32.04; Nie wykryto tablicy
+32.08; Nie wykryto tablicy
+32.12; Nie wykryto tablicy
+32.16; Nie wykryto tablicy
+32.2; Nie wykryto tablicy
+32.24; Nie wykryto tablicy
+32.28; Nie wykryto tablicy
+32.32; Nie wykryto tablicy
+32.36; Nie wykryto tablicy
+32.4; Nie wykryto tablicy
+32.44; Nie wykryto tablicy
+32.48; Nie wykryto tablicy
+32.52; Nie wykryto tablicy
+32.56; Nie wykryto tablicy
+32.6; Nie wykryto tablicy
+32.64; Nie wykryto tablicy
+32.68; Nie wykryto tablicy
+32.72; Nie wykryto tablicy
+32.76; Nie wykryto tablicy
+32.8; Nie wykryto tablicy
+32.84; Nie wykryto tablicy
+32.88; Nie wykryto tablicy
+32.92; Nie wykryto tablicy
+32.96; T17AL4L
+33.0; Nie wykryto tablicy
+33.04; KL40887
+33.08; Nie wykryto tablicy
+33.12; Nie wykryto tablicy
+33.16; Nie wykryto tablicy
+33.2; Nie wykryto tablicy
+33.24; Nie wykryto tablicy
+33.28; Nie wykryto tablicy
+33.32; Nie wykryto tablicy
+33.36; Nie wykryto tablicy
+33.4; Nie wykryto tablicy
+33.44; Nie wykryto tablicy
+33.48; Nie wykryto tablicy
+33.52; Nie wykryto tablicy
+33.56; Nie wykryto tablicy
+33.6; Nie wykryto tablicy
+33.64; Nie wykryto tablicy
+33.68; KL40886
+33.72; 21WNP8I
+33.76; Nie wykryto tablicy
+33.8; 2JKHBII
+33.84; Nie wykryto tablicy
+33.88; Nie wykryto tablicy
+33.92; Nie wykryto tablicy
+33.96; Nie wykryto tablicy
+34.0; Nie wykryto tablicy
+34.04; Nie wykryto tablicy
+34.08; Nie wykryto tablicy
+34.12; Nie wykryto tablicy
+34.16; Nie wykryto tablicy
+34.2; Nie wykryto tablicy
+34.24; Nie wykryto tablicy
+34.28; Nie wykryto tablicy
+34.32; Nie wykryto tablicy
+34.36; Nie wykryto tablicy
+34.4; Nie wykryto tablicy
+34.44; Nie wykryto tablicy
+34.48; Nie wykryto tablicy
+34.52; Nie wykryto tablicy
+34.56; Nie wykryto tablicy
+34.6; Nie wykryto tablicy
+34.64; Nie wykryto tablicy
+34.68; Nie wykryto tablicy
+34.72; Nie wykryto tablicy
+34.76; Nie wykryto tablicy
+34.8; Nie wykryto tablicy
+34.84; KL40882
+34.88; Nie wykryto tablicy
+34.92; Nie wykryto tablicy
+34.96; KL40886
+35.0; Nie wykryto tablicy
+35.04; Nie wykryto tablicy
+35.08; Nie wykryto tablicy
+35.12; LKL4088
+35.16; Nie wykryto tablicy
+35.2; Nie wykryto tablicy
+35.24; Nie wykryto tablicy
+35.28; Nie wykryto tablicy
+35.32; Nie wykryto tablicy
+35.36; Nie wykryto tablicy
+35.4; WIYALK1
+35.44; Nie wykryto tablicy
+35.48; Nie wykryto tablicy
+35.52; Nie wykryto tablicy
+35.56; Nie wykryto tablicy
+35.6; Nie wykryto tablicy
+35.64; Nie wykryto tablicy
+35.68; KL4088J
+35.72; Nie wykryto tablicy
+35.76; Nie wykryto tablicy
+35.8; Nie wykryto tablicy
+35.84; Nie wykryto tablicy
+35.88; Nie wykryto tablicy
+35.92; Nie wykryto tablicy
+35.96; Nie wykryto tablicy
+36.0; Nie wykryto tablicy
+36.04; KL40886
