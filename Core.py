@@ -35,17 +35,11 @@ def core(imgOriginalScene):
         # Regex na sprawdzenie wykrytych tablic
         pattern = re.compile(r"^[BCDEFGKXLNO0PRSTWZ2][A-Z02][A-Z0-9]+$")
         for plate in listOfPossiblePlates:
-            temp = cv2.boxPoints(plate.rrLocationOfPlateInScene)
-            a = dist(temp[1], temp[2])/dist(temp[0], temp[1])
-            b = dist(temp[0], temp[1])/dist(temp[1], temp[2])
-            if 4.7 > max(a, b) > 4.4:
-                if bool(pattern.match(plate.strChars)) and 10 > len(plate.strChars) > 6:
-                    plate.regex = True
-                else:
-                    plate.regex = False
-                if bool(re.search(r"(\w)\1\1", plate.strChars)):
-                    plate.regex = False
+            if bool(pattern.match(plate.strChars)) and 10 > len(plate.strChars) > 6:
+                plate.regex = True
             else:
+                plate.regex = False
+            if bool(re.search(r"(\w)\1\1", plate.strChars)):
                 plate.regex = False
         licPlate = []
 

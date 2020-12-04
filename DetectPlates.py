@@ -5,6 +5,7 @@ import numpy as np
 import math
 import Core
 import random
+from math import dist
 
 import Preprocess
 import DetectChars
@@ -41,7 +42,11 @@ def detectPlatesInScene(imgOriginalScene):
         possiblePlate = extractPlate(imgOriginalScene, listOfMatchingChars)  # attempt to extract plate
 
         if possiblePlate.imgPlate is not None:  # if plate was found
-            listOfPossiblePlates.append(possiblePlate)  # add to list of possible plates
+            temp = cv2.boxPoints(possiblePlate.rrLocationOfPlateInScene)
+            a = dist(temp[1], temp[2]) / dist(temp[0], temp[1])
+            b = dist(temp[0], temp[1]) / dist(temp[1], temp[2])
+            if 4.7 > max(a, b) > 4.4:
+                listOfPossiblePlates.append(possiblePlate)  # add to list of possible plates
 
     return listOfPossiblePlates
 

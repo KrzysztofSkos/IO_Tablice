@@ -10,7 +10,6 @@ def read(pathOfVideo, pathOfNewVideo):
     length = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))  # length of movie in frames
     fps = int(cap.get(cv2.CAP_PROP_FPS))
     for i in range(length):
-
         _, frame = cap.read()
         if i == 0:
             height, width, layers = frame.shape
