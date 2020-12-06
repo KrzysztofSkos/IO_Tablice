@@ -1,15 +1,10 @@
 # Core.py
 
 import cv2
-import numpy as np
-import os
-import time
 import re
-from math import dist
 
 import DetectChars
 import DetectPlates
-import PossiblePlate
 
 SCALAR_BLACK = (0.0, 0.0, 0.0)
 SCALAR_WHITE = (255.0, 255.0, 255.0)
@@ -30,7 +25,7 @@ def core(imgOriginalScene):
     listOfPossiblePlates = DetectChars.detectCharsInPlates(listOfPossiblePlates)
 
     if len(listOfPossiblePlates) == 0:
-        return imgOriginalScene, "Nie wykryto tablicy"
+        return imgOriginalScene, ""
     else:
         # Regex na sprawdzenie wykrytych tablic
         pattern = re.compile(r"^[BCDEFGKXLNO0PRSTWZ2][A-Z02][A-Z0-9]+$")
@@ -47,11 +42,10 @@ def core(imgOriginalScene):
             if plate.regex:
                 licPlate.append(plate)
         if licPlate is None:
-            return imgOriginalScene, "Nie wykryto tablicy"
+            return imgOriginalScene, ""
 
         strNumbers = ""
         for plate in licPlate:
-            # print(plate.strChars)
             drawRedRectangleAroundPlate(imgOriginalScene, plate)
             strNumbers = strNumbers + plate.strChars + ";"
 

@@ -1,7 +1,6 @@
-import cv2
-import numpy as np
-import time
+# VideoProcess.py
 
+import cv2
 import Start
 
 

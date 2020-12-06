@@ -1,7 +1,6 @@
 import tkinter as tk
-import VideoToFrames
+import VideoProcess
 from tkinter import filedialog, messagebox
-from tkinter import ttk
 
 VERSION = '0.1'
 
@@ -10,10 +9,6 @@ try:
     root.tk.call('tk_getOpenFile', '-foobarbaz')
 except tk.TclError:
     pass
-
-
-# root.tk.call('set', '::tk::dialog::file::showHiddenBtn', '1')
-# root.tk.call('set', '::tk::dialog::file::showHiddenVar', '0')
 
 
 def main():
@@ -36,12 +31,12 @@ def main():
     save_label.pack(side=tk.LEFT)
     save_entry = tk.Entry(save_frame, width=25)
     save_entry.pack(side=tk.LEFT)
-    save_button = tk.Button(save_frame, text="Zapisz", command=lambda e=save_entry: save_file(e))
+    save_button = tk.Button(save_frame, text="Otwórz", command=lambda e=save_entry: save_file(e))
     save_button.pack(side=tk.LEFT)
     # uruchamianie
     run_frame = tk.Frame(root)
     run_frame.pack()
-    run_button = tk.Button(run_frame, width=30, text='Uruchom',
+    run_button = tk.Button(run_frame, width=30, text='Uruchom rozpoznawanie',
                            command=lambda s=save_entry, o=open_entry: run_processing(o, s))
     run_button.pack(side=tk.BOTTOM, fill=tk.Y, expand=False)
     root.mainloop()
@@ -60,7 +55,7 @@ def save_file(entry):
 
 
 def run_processing(open, save):
-    VideoToFrames.read(open.get(), save.get())
+    VideoProcess.read(open.get(), save.get())
     messagebox.showinfo(title="Zakonczono", message="Program skonczyl prace")
 
 
