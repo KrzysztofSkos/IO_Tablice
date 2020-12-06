@@ -18,16 +18,16 @@ def main():
     # otwieranie
     open_frame = tk.Frame(root)
     open_frame.pack()
-    open_label = tk.Label(open_frame, width=21, text='Otworz plik wejsciowy')
+    open_label = tk.Label(open_frame, width=21, text='Otwórz plik wejściowy')
     open_label.pack(side=tk.LEFT)
     open_entry = tk.Entry(open_frame, width=25)
     open_entry.pack(side=tk.LEFT)
-    open_button = tk.Button(open_frame, text="Otworz", command=lambda e=open_entry: open_file(e))
+    open_button = tk.Button(open_frame, text="Otwórz", command=lambda e=open_entry: open_file(e))
     open_button.pack(side=tk.LEFT)
     # zapisywanie
     save_frame = tk.Frame(root)
     save_frame.pack()
-    save_label = tk.Label(save_frame, width=21, text='Wskaz katalog wyjsciowy')
+    save_label = tk.Label(save_frame, width=21, text='Wskaż katalog wyjściowy')
     save_label.pack(side=tk.LEFT)
     save_entry = tk.Entry(save_frame, width=25)
     save_entry.pack(side=tk.LEFT)
@@ -56,7 +56,7 @@ def save_file(entry):
 
 def run_processing(open, save):
     VideoProcess.read(open.get(), save.get())
-    messagebox.showinfo(title="Zakonczono", message="Program skonczyl prace")
+    messagebox.showinfo(title="Zakonczono", message="Program zakonczył pracę")
 
 
 main()
