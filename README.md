@@ -3,7 +3,8 @@ Projekt na kurs IO
 ## Wymagania
 - Python 3.9
 - numpy 1.19.3
-- opencv-python3 4.4.0.46
+- opencv-python 4.4.0.46
+- opencv-python3 1.0
 - Windows 10
 ## Uruchomienie
 Aby uruchomić program rozpoznawania tablic w filmach należy:
