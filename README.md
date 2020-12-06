@@ -9,7 +9,7 @@ Projekt na kurs IO
 Aby uruchomić program rozpoznawania tablic w filmach należy:
 - przygotować środowisko
 - upewnić się, że wszystkie klasy oraz pliki "classifications.txt" i "flattened_images.txt" znajdują się w folderze projektu
-- uruchomić interpreter na klasie "gui.py" używając wybranego IDE lub z wiersza poleceń. PRzykładowo dla Windows PowerShell: 
+- uruchomić interpreter na klasie "gui.py" używając wybranego IDE lub z wiersza poleceń. Przykładowo dla Windows PowerShell: 
 ```
 cd [ścieżka do folderu z projektem]
 python gui.py
