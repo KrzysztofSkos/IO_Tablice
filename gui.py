@@ -20,7 +20,7 @@ def main():
     open_frame.pack()
     open_label = tk.Label(open_frame, width=21, text='Otwórz plik wejściowy')
     open_label.pack(side=tk.LEFT)
-    open_entry = tk.Entry(open_frame, width=25)
+    open_entry = tk.Entry(open_frame, width=25, state='disabled')
     open_entry.pack(side=tk.LEFT)
     open_button = tk.Button(open_frame, text="Otwórz", command=lambda e=open_entry: open_file(e))
     open_button.pack(side=tk.LEFT)
@@ -29,7 +29,7 @@ def main():
     save_frame.pack()
     save_label = tk.Label(save_frame, width=21, text='Wskaż katalog wyjściowy')
     save_label.pack(side=tk.LEFT)
-    save_entry = tk.Entry(save_frame, width=25)
+    save_entry = tk.Entry(save_frame, width=25, state='disabled')
     save_entry.pack(side=tk.LEFT)
     save_button = tk.Button(save_frame, text="Otwórz", command=lambda e=save_entry: save_file(e))
     save_button.pack(side=tk.LEFT)
@@ -44,14 +44,18 @@ def main():
 
 def open_file(entry):
     open_filename = filedialog.askopenfilename(initialfile=entry.get())
+    entry.configure(state=tk.NORMAL)
     entry.delete(0, tk.END)
     entry.insert(tk.END, open_filename)
+    entry.configure(state=tk.DISABLED)
 
 
 def save_file(entry):
     save_filename = filedialog.askdirectory(initialdir=entry.get())
+    entry.configure(state=tk.NORMAL)
     entry.delete(0, tk.END)
     entry.insert(tk.END, save_filename)
+    entry.configure(state=tk.DISABLED)
 
 
 def run_processing(open, save):
