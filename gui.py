@@ -59,8 +59,10 @@ def save_file(entry):
 
 
 def run_processing(open, save):
-    VideoProcess.read(open.get(), save.get())
-    messagebox.showinfo(title="Zakonczono", message="Program zakonczył pracę")
-
+    if open.get() != "" and save.get() != "":
+        VideoProcess.read(open.get(), save.get())
+        messagebox.showinfo(title="Zakonczono", message="Program zakonczył pracę")
+    else:
+        messagebox.showinfo(title="Błąd", message="Uzupełnij dane")
 
 main()
