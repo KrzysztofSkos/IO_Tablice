@@ -43,7 +43,7 @@ def main():
 
 
 def open_file(entry):
-    open_filename = filedialog.askopenfilename(initialfile=entry.get(), filetypes=[("MP4", "*.mp4"), ("AVI", "*.avi")])
+    open_filename = filedialog.askopenfilename(initialfile=entry.get(), filetypes=[("Pliki video", "*.mp4 *.avi")])
     entry.configure(state=tk.NORMAL)
     entry.delete(0, tk.END)
     entry.insert(tk.END, open_filename)
