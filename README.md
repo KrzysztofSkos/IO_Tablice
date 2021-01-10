@@ -5,7 +5,7 @@ Projekt na kurs IO
 - numpy 1.19.3
 - opencv-python 4.4.0.46
 - opencv-python3 1.0
--python-magic-bin 0.4.14
+- python-magic-bin 0.4.14
 - Windows 10
 ## Uruchomienie
 Aby uruchomić program rozpoznawania tablic w filmach należy:
