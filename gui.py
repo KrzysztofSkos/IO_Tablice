@@ -43,7 +43,7 @@ def main():
 
 
 def open_file(entry):
-    open_filename = filedialog.askopenfilename(initialfile=entry.get(), filetypes=[("Pliki video", "*.mp4 *.avi")])
+    open_filename = filedialog.askopenfilename(initialfile=entry.get())#, filetypes=[("Pliki video", "*.mp4 *.avi")])
     entry.configure(state=tk.NORMAL)
     entry.delete(0, tk.END)
     entry.insert(tk.END, open_filename)
@@ -60,8 +60,11 @@ def save_file(entry):
 
 def run_processing(open, save):
     if open.get() != "" and save.get() != "":
-        VideoProcess.read(open.get(), save.get())
-        messagebox.showinfo(title="Zakonczono", message="Program zakonczył pracę")
+        x = VideoProcess.read(open.get(), save.get())
+        if x == 1:
+            messagebox.showinfo(title="Błąd", message="Podano niepoprawny plik do analizy. Wprowadź plik wideo.")
+        else:
+            messagebox.showinfo(title="Zakończono", message="Program zakończył pracę")
     else:
         messagebox.showinfo(title="Błąd", message="Uzupełnij dane")
 

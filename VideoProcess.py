@@ -2,10 +2,18 @@
 
 import cv2
 import Start
+import magic
+
 
 def read(pathOfVideo, pathOfNewVideo):
     dirPath = pathOfNewVideo
     pathOfNewVideo = pathOfNewVideo + "/zmodyfikowane.avi"
+
+    mime = magic.Magic(mime=True)
+    filename = mime.from_file(pathOfVideo)
+    if filename.find('video') == -1:
+        return 1
+
     cap = cv2.VideoCapture(pathOfVideo)
     frameCount = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))  # length of movie in frames
     fps = int(cap.get(cv2.CAP_PROP_FPS))
